@@ -1,0 +1,600 @@
+0	Terra smossa
+1	Buco
+2	Tombino
+3	Lampione A
+4	Lampione B
+5	Panchina 1
+6	Panchina 2
+7	Panchina 3
+8	Separé
+9	Tombino apr.
+10	Aiuola shop
+11	Buco scavo
+12	Posta
+13	Banca Tirol
+14	Torre
+15	Casa NPC 00
+16	Casa NPC 01
+17	Casa NPC 02
+18	Casa NPC 03
+19	Casa NPC 04
+20	Casa NPC 05
+21	Casa NPC 06
+22	Casa NPC 07
+23	Casa albero
+24	Bancarella
+25	Sedia banc.
+26	Muro bazar 1
+27	Muro bazar 2
+28	Albero vuoto
+29	Muro bazar 3
+30	Non usato
+31	Pian./rovine
+32	Magia shop
+33	Sartoria
+34	Fioraio
+35	Parrucchiere
+36	Bazar destra
+37	Bazar sinis.
+38	Appartamento
+39	Casa spettri
+40	Tomba cupa A
+41	Tomba cupa B
+42	Tomba cupa C
+43	Tomba cupa D
+44	Dorm. 4D
+45	Cartello 00
+46	Avanzo
+47	Porta scuola
+48	Cancello 1
+49	Cancello 2
+50	Cancello 3
+51	Cancello 4
+52	Regalo dx
+53	Regalo sx
+54	Fiocco neve
+55	Ombra Nessie
+56	Alb. bianco
+57	Pentolone
+58	Lavagna
+59	UFO
+60	Alb. spoglio
+61	Driade cucc.
+62	Pupazzo neve
+63	Cerch. Abito
+64	Cerch. Fiore
+65	Testa dullah
+66	Trappola
+67	Libro proib.
+68	Fungo magico
+69	Sigillo
+70	Orma gigante
+71	Tombino apr.
+72	Cerch. Pesce
+73	Cerchio Bug
+74	Cerch. Smile
+75	Sciame api
+76	Anello
+77	Amaca
+78	Medaglia
+79	Kadomatsu
+80	Zucca luce
+81	Coraggio
+82	Scrigno
+83	Sfida
+84	Fiammifero
+85	Abete Natale
+86	Tesoro grifo
+87	Regalo
+88	Sedia tè in
+89	Sedia tè out
+90	Cristalli
+91	Ogg. paura
+92	Fiocco 3
+93	Fiocco 4
+94	Fiocco 5
+95	Fiocco 6
+96	Fiocco 7
+97	S. Valentino
+98	White Day
+99	Primavera
+100	Festa mamma
+101	Festa papà
+102	Estate
+103	Festa
+104	Autunno
+105	Festa arte
+106	Bandiera
+107	Tiara mem.
+108	Cerch. Gioie
+109	Collana mem.
+110	Casa albero
+111	Albero
+112	Conifera
+113	Alb. magico
+114	Alberello 1
+115	Latifoglia 2
+116	Conifera 2
+117	Alb. secco
+118	Alb. bacche
+119	Piant.bacche
+120	Erbaccia
+121	Mandragora
+122	Rosa bianca
+123	Rosa rossa
+124	Rosa gialla
+125	Rosa rosa
+126	Tulip bianco
+127	Tulip rosso
+128	Tulip giallo
+129	Tulip blu
+130	Marg. bianca
+131	Marg. rossa
+132	Marg. gialla
+133	Marg. nera
+134	Mugh. bianco
+135	Mugh. rosso
+136	Mugh. giallo
+137	Mugh. aranc.
+138	Fiore cuore
+139	Fiore cranio
+140	Fiore gemma
+141	Fiore dolce
+142	Rosa secca
+143	Tulip secco
+144	Marg. secca
+145	Mugh. secco
+146	Cuore secco
+147	Cranio secco
+148	Gemma secca
+149	Dolce secco
+150	Matsutake
+151	Tartufo
+152	Imotake
+153	Pied bleu
+154	Fungo risata
+155	Shiitake
+156	Volvariella
+157	Champignon
+158	Porcino
+159	Spugnola
+160	Amanita
+161	Dictyophora
+162	Steccherino
+163	Parasole
+164	Gallinaccio
+165	Cardoncello
+166	Ramaria
+167	Trombetta
+168	Enoki
+169	Nameko
+170	Sparassis
+171	Fungo lunare
+172	Maitake
+173	Pleurotus
+174	Mora
+175	Mirtillo
+176	Cranberry
+177	Lampone
+178	Fragola
+179	Bacca marcia
+180	Sig. amore
+181	Sig. soldi
+182	Sig. moda
+183	Sig. fortuna
+184	Sig. pace
+185	Osso
+186	Minerale
+187	1 Rich
+188	10 Rich
+189	100 Rich
+190	1000 Rich
+191	10000 Rich
+192	100000 Rich
+193	Semi di rosa
+194	Semi tulip.
+195	Semi marg.
+196	Semi mugh.
+197	Pianta enig.
+198	Enig. secca
+199	Alberello
+200	Piant. mora
+201	Piant. mirt.
+202	Piant. cran.
+203	Piant. lamp.
+204	Piant. frag.
+205	Cardonc. sp.
+206	Mobile mem.
+207	Dolce
+208	Caramella
+209	Ametista
+210	Acquamarina
+211	Diamante
+212	Smeraldo
+213	Rubino
+214	Zaffiro
+215	Turchese
+216	Lapislazzuli
+217	Cristallo
+218	Ferro grezzo
+219	Oro grezzo
+220	Arg. grezzo
+221	Rame grezzo
+222	Stagno grez.
+223	Fosforo
+224	Zolfo grezzo
+225	Rad. mandra.
+226	Spine nere
+227	Squama drago
+228	Pezzo stella
+229	Unghia maga
+230	Scarabeo arg
+231	Olio rospo
+232	Elis. angelo
+233	Rugiada rosa
+234	Goccia luna
+235	Lacrima pura
+236	Succo veleno
+237	Cookie gioia
+238	Cookie amore
+239	Pad. pancake
+240	Pad. riso
+241	Pad. steak
+242	Pad. hambur.
+243	Pad. soba
+244	Cookie pace
+245	Pad. crepe
+246	Pad. pasta B
+247	Pad. pasta R
+248	Pad. pasta M
+249	Pad. pasta V
+250	Nastro
+251	Carota pepe
+252	Crepe osso
+253	Anpan aperto
+254	Carne taglio
+255	Stampo torta
+256	Piatto serv.
+257	Spianatoia
+258	Vassoio frit
+259	Pentolone
+260	Mattarello
+261	Piatto
+262	Piatto steak
+263	Piatto cina
+264	Bevanda
+265	Ciotola fior
+266	Contenitore
+267	Prop profumo
+268	Becher fiori
+269	Copri nastro
+270	Tagliere
+271	Cipolla
+272	Solo padella
+273	Salsa pad.
+274	Ciotola fri.
+275	Sagoma camic
+276	Sagoma coat
+277	Sagoma abito
+278	Sagoma pant.
+279	Sagoma gonna
+280	Becher penna
+281	Penna magica
+282	Mod. gelato
+283	Mod. parfait
+284	Curry
+285	Zuppa
+286	Stufato
+287	Noodles
+288	Donburi
+289	Impasto bowl
+290	Disco pasta
+291	Torta scena
+292	Ciot. carne
+293	Pasta pent.
+294	Torta magica
+295	Imp. gioia
+296	Imp. amore
+297	Imp. amici
+298	Ciot. crema
+299	Bun
+300	Imp. donut
+301	Piatti banco
+302	Ciotola mix
+303	Pentola cott
+304	Banco
+305	Piatto cott.
+306	Sacco cott.
+307	Brodo pasta
+308	Brodo rosso
+309	Brodo bruno
+310	Stampo pie
+311	Verdura pad.
+312	Roast beef
+313	Polpettone
+314	Ingr. gelato
+315	Torta bruc.
+316	Torta cruda
+317	Zuppa bruc.
+318	Gelato fall.
+319	Carne bruc.
+320	Fritto bruc.
+321	Fritto crudo
+322	Muffin bruc.
+323	Muffin crudo
+324	Pie q. bruc.
+325	Pie q. crudo
+326	Gratin bruc.
+327	Gratin crudo
+328	Pizza bruc.
+329	Pizza cruda
+330	Pane bruc.
+331	Pane crudo
+332	Noodle bruc.
+333	Pancake bruc
+334	Riso bruc.
+335	Crepe bruc.
+336	Brodo bruc.
+337	Curry bruc.
+338	Donburi brc.
+339	Pie t. bruc.
+340	Pie t. crudo
+341	Cookie bruc.
+342	Cookie crudo
+343	Carne cruda
+344	Top. crepe
+345	Anpan aperto
+346	Crepe bella
+347	Crepe storta
+348	Crepe fall.
+349	Fritto p-p
+350	Fritto g-p
+351	Fritto g-g
+352	Tempura p-p
+353	Tempura g-p
+354	Tempura g-g
+355	Frittura p-p
+356	Frittura g-p
+357	Frittura g-g
+358	Top donburi
+359	Bouquet
+360	Penna magica
+361	Profumo mag.
+362	Tè magico 1
+363	Tè magico 2
+364	Torta magica
+365	Re: primav.
+366	Re: estate
+367	Re: autunno
+368	Re: inverno
+369	Re: magia
+370	Sagoma cami
+371	Sagoma tun.
+372	Sagoma legg.
+373	Sagoma nast.
+374	Osso piccolo
+375	Osso cane
+376	Osso bestia
+377	Lisca
+378	Carie
+379	Trave ferro
+380	Osso ombrel.
+381	Osso maiale
+382	Ossa pollo
+383	Osso cristal
+384	Lisca gigant
+385	Dentiera
+386	Osso pirata
+387	Zanna lupo
+388	Osso mammut
+389	Osso scritto
+390	Osso antico
+391	Osso ipogeo
+392	Osso fossile
+393	Osso gigante
+394	Osso drago
+395	Corno oni
+396	Osso maledet
+397	Osso tomba
+398	Osso demonio
+399	Badile
+400	Canna pesca
+401	Retino
+402	Annaffiatoio
+403	Tazza da tè
+404	Libro
+405	Straccio
+406	Scopa puliz.
+407	Scopa USA
+408	Spazzolone
+409	Scopa bianca
+410	Scopa farf.
+411	Scopa caram.
+412	Scopa fiore
+413	Scopa tuono
+414	Scopa cross
+415	Scopa metal.
+416	Mini aspira
+417	Aspir. casa
+418	Scopa lume
+419	Scopa renna
+420	Scopa neve
+421	Scopa cuore
+422	Scopa libel.
+423	Scopa fenice
+424	Scopa pavone
+425	Scopa drago
+426	Scopa osso
+427	Scopa dango
+428	Scopa cucch.
+429	Scopa stella
+430	Scopa taxi
+431	Flauto
+432	Violino
+433	Sax
+434	Chit. acust.
+435	Chit. elett.
+436	Contrabbasso
+437	Mini drum
+438	Maracas
+439	Telegramma
+440	Spec. afro
+441	Chiave porta
+442	Cons. mobili
+443	CD consegna
+444	Chiave d'oro
+445	Katana Dot
+446	Borsa studio
+447	Scopa tax. N
+448	Sacchetto
+449	Mescolatore
+450	Vassoio PC
+451	Menu
+452	Forchetta
+453	Tappo
+454	Memo
+455	Vass. gatto
+456	Asta cottura
+457	Mestolo
+458	Paletta
+459	Pinze
+460	Frullatore
+461	Forma gelato
+462	Scarabocchio
+463	Coltello
+464	Bacchette
+465	Lima
+466	Porzionatore
+467	Becher
+468	Vuoto
+469	Pepe
+470	Timbro gioia
+471	Timbro amore
+472	Patty
+473	Tazza tè
+474	Misurino
+475	Ciot. petali
+476	Spatola
+477	Matita
+478	Forbici
+479	Ciotola cat.
+480	Bottiglia
+481	Forno torta
+482	Forno pie q.
+483	Forno gratin
+484	Forno pane
+485	Forno pizza
+486	Forno muffin
+487	Microfono
+488	Vass. tè PC
+489	Vass. tè gat
+490	Falce morte
+491	Chit. morte
+492	Sacco polv.
+493	Armonica
+494	Bell lyra
+495	Violoncello
+496	Tuba
+497	Conga
+498	Tamburello
+499	Asta stella
+500	Ring wand
+501	Pretty wand
+502	Crystal wand
+503	Ombrel. mag.
+504	Mano magica
+505	Verga cranio
+506	Girasole
+507	Verga legno
+508	Tridente
+509	Verga tuono
+510	Bastone gent
+511	Div. M sopra
+512	Div. F sopra
+513	Blazer sopra
+514	Gakuran su
+515	Sailor est.
+516	Sailor inv.
+517	Crav. blusa
+518	Fiocco+blusa
+519	Crav.+maglia
+520	Fioc.+maglia
+521	T logo rosa
+522	Rosa pastel
+523	Cam. arcob.
+524	Cam. gatto
+525	Stella aranc
+526	Cam. cuori
+527	Cam. righe
+528	Tunica fiori
+529	Felpa blu
+530	Felpa logo
+531	Felpa cuori
+532	Top sportivo
+533	Top girly
+534	Denim corto
+535	Blouson
+536	Piumino girl
+537	Cardi righe
+538	Top animal
+539	Cam. scritte
+540	Cam. anarchy
+541	Cam. peace
+542	Cam. techno
+543	Cam. reggae
+544	Righe aranc.
+545	Camo sopra
+546	Cam. tulip.
+547	Cam. n. 5
+548	Cam. mucca
+549	Cam. a rombi
+550	Stelle blu
+551	Flanella
+552	Cam. western
+553	Cam. scacchi
+554	Cam. patch
+555	Felpa basic
+556	Felpa zip
+557	Polo
+558	Cam. stola
+559	Maglia morb.
+560	Maglia terra
+561	Maglia amore
+562	Giacca blu
+563	Gilet piuma
+564	West. aperto
+565	Parka strati
+566	Maglia calma
+567	Blouson zip
+568	Piumino blu
+569	Bomber verde
+570	Giacca jeans
+571	Pelle rossa
+572	Cam. serpe
+573	Cecchino su
+574	Cam. teschio
+575	Cam. fuoco
+576	Cam. punk
+577	Cam. magia
+578	Cam. tie-dye
+579	Biker nero
+580	Gilet camo
+581	Cam. bad boy
+582	Cam. pantera
+583	Divisa nurse
+584	Div. konbini
+585	Pilota sopra
+586	Hostess su
+587	Pompiere su
+588	Camice dott.
+589	Racer sopra
+590	Ufficiale su
+591	Visual su
+592	Pigiama su
+593	Impermeabile
+594	Aloha blu
+595	Coppia sx
+596	Coppia dx
+597	Asilo rosa
+598	Pancera
+599	Comico su

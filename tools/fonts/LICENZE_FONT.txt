@@ -1,0 +1,46 @@
+Font usati dalla patch (insegne, rivista, interfaccia) - tutti liberi, da Google Fonts (https://fonts.google.com)
+Fonts used by the patch (signs, magazine, interface) - all free, from Google Fonts
+
+OFL = SIL Open Font License 1.1 (https://openfontlicense.org)
+Apache = Apache License 2.0 (https://www.apache.org/licenses/LICENSE-2.0)
+La licenza completa e il copyright sono anche dentro ogni file .ttf / full license and copyright are inside each .ttf
+
+AbrilFatface.ttf             OFL 1.1    Copyright (c) 2011, Copyright (c) 2011, TypeTogether (www.type-together.com), with Reserved Font Names "Abril" and "Abril Fatface"
+Baloo2.ttf                   OFL 1.1    Copyright 2019 The Baloo 2 Project Authors (https://github.com/EkType/Baloo2)
+Bangers.ttf                  OFL 1.1    Copyright 2010 The Bangers Project Authors (https://github.com/googlefonts/bangers)
+BowlbyOneSC.ttf              OFL 1.1    Copyright (c) 2011, vernon adams (vern@newtypography.co.uk), with Reserved Font Names "Bowlby"
+BubblegumSans.ttf            OFL 1.1    Copyright (c) 2011 Angel Koziupa (sudtipos@sudtipos.com), Copyright (c) 2011 Alejandro Paul (sudtipos@sudtipos.com), with Reserved Font Name "Bubblegum Sans"
+Bungee.ttf                   OFL 1.1    Copyright 2023 The Bungee Project Authors (https://github.com/djrrb/Bungee)
+ChelaOne.ttf                 OFL 1.1    Copyright (c) 2012 by LatinoType (www.latinotype.com), with Reserved Font Name 'Chela'
+CherryBombOne.ttf            OFL 1.1    Copyright 2019 The Cherry Bomb Project Authors (https://github.com/satsuyako/CherryBomb)
+CherrySwash.ttf              OFL 1.1    Copyright (c) 2012, Natalia Kasatkina (kasatkinanataliya@gmail.com)
+Chewy.ttf                    Apache 2.0 Copyright (c) 2010 by Font Diner, Inc DBA Sideshow. All rights reserved.
+CinzelDecorative.ttf         OFL 1.1    Copyright © 2012 Natanael Gama (info@ndiscovered.com), with Reserved Font Name 'Cinzel'
+Courgette.ttf                OFL 1.1    Copyright (c) 2012, Sorkin Type Co (www.sorkintype.com) with Reserved Font Name "Courgette".
+DelaGothicOne.ttf            OFL 1.1    Copyright 2020 The Dela Gothic Project Authors (https://github.com/syakuzen/DelaGothic)
+Fredoka.ttf                  OFL 1.1    Copyright 2016 The Fredoka Project Authors (https://github.com/hafontia/Fredoka-One)
+GochiHand.ttf                OFL 1.1    Copyright (c) 2011, Huerta Tipografica (www.huertatipografica.com.ar), with Reserved Font Names "Gochi" and "Gochi Hand"
+Grandstander.ttf             OFL 1.1    Copyright 2020 The Grandstander Project Authors (https://github.com/Etcetera-Type-Co/Grandstander)
+KaushanScript.ttf            OFL 1.1    Copyright (c) 2011, Pablo Impallari (www.impallari.com|impallari@gmail.com), Copyright (c) 2011, Igino Marini. (www.ikern.com|mail@iginomarini.com), with Reserved Font Name Kaushan Script.
+LilitaOne.ttf                OFL 1.1    Copyright (c) 2011 Juan Montoreano (juan@remolacha.biz), with Reserved Font Names "Lilita One"
+Lobster.ttf                  OFL 1.1    Copyright 2010 The Lobster Project Authors (https://github.com/impallari/The-Lobster-Font), with Reserved Font Name "Lobster".
+LuckiestGuy.ttf              Apache 2.0 Copyright (c) 2010 by Brian J. Bonislawsky DBA Astigmatic (AOETI). All rights reserved. Available under the Apache 2.0 licence. http://www.apache.org/licenses/LICENSE-2.0.html
+MochiyPopOne.ttf             OFL 1.1    Copyright 2020 The MochiyPop Project Authors (https://github.com/fontdasu/Mochiypop)
+Pacifico.ttf                 OFL 1.1    Copyright 2018 The Pacifico Project Authors (https://github.com/googlefonts/Pacifico)
+PermanentMarker.ttf          Apache 2.0 Copyright (c) 2010 by Font Diner, Inc. All rights reserved.
+PlayfairDisplay.ttf          OFL 1.1    Copyright 2017 The Playfair Display Project Authors (https://github.com/clauseggers/Playfair-Display), with Reserved Font Name "Playfair Display".
+PottaOne.ttf                 OFL 1.1    Copyright 2020 The Potta Project Authors (https://github.com/go108go/Potta), all rights reserved.
+RampartOne.ttf               OFL 1.1    Copyright 2020 The Rampart Project Authors (https://github.com/fontworks-fonts/Rampart/)
+Righteous.ttf                OFL 1.1    Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name "Righteous"
+Satisfy.ttf                  Apache 2.0 Copyright (c) 2011 by Font Diner, Inc. All rights reserved.
+SedgwickAveDisplay.ttf       OFL 1.1    Copyright 2017 The Sedgwick Ave Project Authors (https://github.com/googlefonts/sedgwickave)
+Shojumaru.ttf                OFL 1.1    Copyright (c) 2012 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name "Shojumaru"
+SigmarOne.ttf                OFL 1.1    Copyright 2011 The Sigmar One Project Authors (contact@sansoxygen.com)
+TitanOne.ttf                 OFL 1.1    Copyright (c) 2011 Rodrigo Fuenzalida (hello@rfuenzalida.com), with Reserved Font Name "Titan One"
+boogaloo.ttf                 OFL 1.1    Copyright (c) 2011, John Vargas Beltran (www.johnvargasbeltran.com|john.vargasbeltran@gmail.com), with Reserved Font Name "Boogaloo".
+fascinate.ttf                OFL 1.1    Copyright (c) 2011 by Brian J. Bonislawsky DBA Astigmatic (AOETI) (astigma@astigmatic.com), with Reserved Font Name "Fascinate"
+gorditas.ttf                 OFL 1.1    Copyright (c) 2011, Gustavo Dipre (gbrenda1987@gmail.com), with Reserved Font Name "Gorditas".
+knewave.ttf                  OFL 1.1    Copyright (c) 2011 by Tyler Finck. All rights reserved.
+lemon.ttf                    OFL 1.1    Copyright 2011 The Lemon Project Authors (https://github.com/etunni/lemon) with Reserved Font Name "Lemon"
+modak.ttf                    OFL 1.1    Copyright (c) 2014, Ek Type. All rights reserved.
+shrikhand.ttf                OFL 1.1    Copyright (c) 2015 Jonny Pinhorn (jonpinhorn.typedesign@gmail.com)

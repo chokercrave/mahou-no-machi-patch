@@ -1,0 +1,184 @@
+35444	Codice errore: 090-0410 Errore di comunicazione.
+35445	Codice errore: 090-0420 Manutenzione in corso: impossibile accedere.
+35446	Codice errore: 090-0440 Dati di comunicazione non validi.
+35447	Codice errore: 090-0450 Dati di comunicazione non validi.
+35448	Codice errore: 090-0451 Dati di comunicazione non validi.
+35449	Codice errore: 090-0452 Dati di comunicazione non validi.
+35450	Codice errore: 090-0453 Autenticazione non riuscita.
+35451	Codice errore: 090-0460 Autenticazione non riuscita.
+35452	Codice errore: 090-0461 Autenticazione non riuscita.
+35453	Codice errore: 090-0462 Autenticazione non riuscita.
+35454	Codice errore: 090-0465 Autenticazione non riuscita.
+35455	Codice errore: 090-0480 Verifica della password non riuscita.
+35456	Codice errore: 090-0481 La password è sbagliata.
+35457	Codice errore: 090-0482 Verifica della password non riuscita.
+35458	Codice errore: 090-0483 La password è scaduta.
+35459	Codice errore: 090-0484 Questa password non è più utilizzabile.
+35460	Codice errore: 090-0485 Password non valida.
+35461	Codice errore: 090-0490 Dati non validi.
+35462	Codice errore: 090-0495 I dati scaricati sono danneggiati.
+35463	Errore di comunicazione.
+35464	<X1>Ricerca dei dati scaricabili in corso...
+35465	Ci sono dati da scaricare. Vuoi scaricarli?
+35466	Non ci sono dati da scaricare.
+35467	<X1>Scrittura su scheda SD e download in corso. Premi X per annullare.
+35468	Vuoi aprire la schermata delle impostazioni Internet?
+35469	Vuoi inserire una password? Per i regali senza password scegli "No".
+35470	La password è giusta: hai ottenuto un oggetto!
+35471	Nessun oggetto corrisponde alla password inserita.
+35472	Vuoi collegarti a Internet per cercare nuovi oggetti?
+35473	Hai scaricato <X1> oggetti.
+35474	Hai scaricato <X1> insegne.
+35475	Hai scaricato <X1> ricette.
+35476	Hai scaricato le informazioni sulle offerte speciali.
+35477	Vuoi collegarti a Internet per cercare oggetti da scaricare?
+35478	Hai trovato una "Zona Tongari"! Vuoi scaricare i dati?
+35479	La comunicazione wireless è disattivata. Attivala per usare le funzioni online.
+35480	Vuoi leggere le condizioni d'uso dei servizi online?
+35481	Vuoi iniziare a giocare senza la "Zona Tongari"?
+35482	Il nuovo negozio "<X1>" è stato registrato!
+35483	Hai ottenuto il nuovo oggetto "<X1>"!
+35484	Hai già ottenuto i dati di questa password.
+35485	Hai scaricato i dati di "<X1>".
+35486	Nel centro commerciale ha aperto un nuovo negozio!
+35487	Download annullato.
+35488	<X1>Recupero dei dati delle condizioni d'uso in corso...
+35489	Il servizio di download dei regali senza password è terminato.
+35490	Se ricevi il centro commerciale di Aeon, i negozi
+35491	che c'erano prima possono finire nella lista.
+35492	Per rimetterli a posto, parla con il direttore del centro
+35493	commerciale e scegli "Cambio negozi".
+35494	<X1>Richieste di trasferimento in corso. Premi B per annullare.
+35495	<X1>Hai trovato una scuola che vuole un trasferimento!
+35496	<X1>Il trasferimento della scuola verrà annullato.
+35497	<X1>Vuoi trasferire la scuola di magia?
+35498	<X1>Copia dei dati della scuola dall'origine in corso...
+35499	<X1>Copia dei dati della scuola completata!
+35500	Vuoi annullare il trasferimento della scuola?
+35501	I dati di salvataggio di "Tongari Boushi e il Negozio Magico" sono stati copiati.
+35502	Ma tutti gli oggetti lasciati sul campo sono spariti.
+35503	Novità
+35504	Pantacollant
+35505	Scatta una foto da applicare al vestito.
+35506	Scegli la foto da applicare al vestito.
+35507	Disegna immagini e scritte per creare il tuo design.
+35508	Termina la personalizzazione del vestito.
+35509	Foto non salvata: la scheda SD non è inserita.
+35510	Foto non salvata: la scheda SD è protetta da scrittura.
+35511	Foto non salvata: la scheda SD ha raggiunto il limite di foto.
+35512	Foto non salvata: spazio insufficiente sulla scheda SD.
+35513	Foto non salvata: operazione sui file della scheda SD fallita.
+35514	Foto non salvata: la scheda SD non è stata riconosciuta.
+35515	Sig.
+35516	Soldi: avanti
+35517	Soldi: indietro
+35518	Posa/Scambia
+35519	Togli collana<X1>
+35520	Posa/Scambia<X1>
+35521	Prodotto
+35522	Prezzo
+35523	Rimasti
+35524	Incasso
+35525	Venduti
+35526	Tipo
+35527	Nome originale:
+35528	Non registrato!
+35529	Dolce
+35530	Piccante
+35531	Salato
+35532	Aspro
+35533	Fico
+35534	Semplice
+35535	Sfarzoso
+35536	Fresco
+35537	Pacato
+35538	Audace
+35539	Grazioso
+35540	Abbagliante
+35541	Misterioso
+35542	Profitto
+35543	Questo prodotto ha già un nome registrato. Se lo registri qui, il nome andrà perso. Procedere?
+35544	Questo prodotto ha già un nome registrato. Vuoi cambiarlo ancora?
+35545	Vuoi cancellare il nome registrato e tornare al nome originale?
+35546	Il prodotto è registrato negli scambi di oggetti: non puoi cancellarne il nome.
+35547	Venduti
+35548	Nome in città
+35549	Scegli dalla borsa l'oggetto da scambiare.
+35550	Hai mandato l'oggetto scelto nel cestino.
+35551	Il cestino è pieno! Vuoi buttare l'oggetto più in fondo?
+35552	Hai buttato un oggetto dal cestino e ne hai preso uno nuovo.
+35553	Hai troppi oggetti: non puoi raccogliere altro.
+35554	Non c'è posto per l'oggetto: lo mando nel cestino.
+35555	Fai un po' di spazio, per favore.
+35556	Hai troppi oggetti: non hai potuto riceverlo.
+35557	Hai troppi oggetti: non puoi toglierlo.
+35558	Hai troppi oggetti: non puoi cambiarti.
+35559	Non sei riuscito ad arrivarci.
+35560	C'è un altro oggetto sul piano: non hai potuto raccoglierlo.
+35561	Hai troppi oggetti: l'ho mandato nel magazzino del negozio.
+35562	Durante la comunicazione non puoi posare oggetti.
+35563	Durante la comunicazione non puoi comprare oggetti con nome.
+35564	Durante la comunicazione non puoi raccogliere oggetti con nome.
+35565	Non puoi pubblicizzare questo oggetto.
+35566	Scegli un altro oggetto.
+35567	Qui non puoi suonare.
+35568	Qui non puoi cantare.
+35569	Borsa e magazzino sono pieni: l'ho mandato nel cestino.
+35570	Per ora non puoi vedere i look.
+35571	Hai troppi oggetti: non puoi cancellarlo.
+35572	Non puoi posare altri look.
+35573	Cancella davvero
+35574	Codice amico
+35575	Titolo
+35576	Bastone
+35577	Cappello
+35578	Oggetti in uso
+35579	Avviso da
+35580	Capo
+35581	Scelgo questo<X1>
+35582	Che fai?
+35583	<X1>耂聢耥
+35584	<X1>耂胠聠
+35585	<X1>耂聖耨
+35586	<X1>耂耍聝
+35587	<X1>耂胓聚
+35588	<X1>耂聗肻
+35589	<X1>耂肻肾肼肽
+35590	<X1>耂腹聧
+35591	<X1>耂耏耏聦
+35592	<X1>耂耏肻聦
+35593	Ho degli oggetti.
+35594	Insegna mia 1
+35595	Insegna mia 2
+35596	Insegna mia 3
+35597	Insegna mia 4
+35598	Insegna mia 5
+35599	Insegna mia 6
+35600	Insegna mia 7
+35601	Insegna mia 8
+35602	Base dell'insegna
+35603	Va bene questo design?
+35604	Vuoi lasciare il design?
+35605	Vuoi sovrascrivere il design precedente?
+35606	Logo originale
+35607	Logo originale 2
+35608	Logo originale 3
+35609	Logo originale 4
+35610	Logo originale 5
+35611	Logo originale 6
+35612	Logo originale 7
+35613	Logo originale 8
+35614	Base dello sfondo
+35615	Funzioni utili<X1>
+35616	Puoi disegnare tu stesso l'insegna del negozio!
+35617	Puoi creare <c8>fino a 8 insegne</c> diverse:
+35618	disegna tante insegne tutte tue
+35619	e fai un negozio splendido da mostrare a tutti!
+35620	Chiama il carpentiere <c3>Ernesto</c> e scegli <c8>Disegna insegna</c>.
+35621	Scegli il numero dell'insegna da disegnare e apparirà la schermata di disegno.
+35622	Scegli i colori e disegna sull'insegna per creare il tuo design.
+35623	Ci sono <c8>penna</c>, <c8>secchiello</c>, <c8>contagocce</c>, <c8>forbici</c>, <c8>inverti</c>...
+35624	Di questi, speciali sono <c8>contagocce</c> e <c8>forbici</c>.
+35625	Le <c8>forbici</c> servono a ritagliare la forma dell'insegna.
+35626	Con qualche taglio puoi renderla rotonda
+35627	o della forma che preferisci: prova un po'!

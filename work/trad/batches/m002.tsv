@@ -1,0 +1,413 @@
+0	SDカードに保存できる写真の枚数が限界なため写真を保存できませんでした	Foto non salvata: la scheda SD ha raggiunto il limite di foto.	56
+1	SDカードのファイル操作に失敗したため写真を保存できませんでした	Foto non salvata: operazione sui file della scheda SD fallita.	56
+2	ふくのデザインをもどしますか?	Annulla le modifiche allo▼stile.	16
+3	みんなのふくをけしておくります	Sovrascrivi i Vestiti base.	16
+4	ロッカーのふくをけしてもらいます	Sovrascriverai i tuoi▼vestiti.	16
+5	なし	Non fare niente	8
+6	うめる	Seppellire	8
+7	かべかえる	Cambia tappezz.	8
+8	ゆかかえる	Cambia pavimento	8
+9	おかねつぎへ	Soldi: avanti	8
+10	おかねもどる	Soldi: indietro	8
+11	おく/かえる	Posa/Scambia	8
+12	うめる<X1>	Seppellire	8
+13	むしにがす<X1>	Libera insetto	8
+14	さかなにがす<X1>	Libera pesce	8
+15	ぼうしはずす<X1>	Togli cappello	8
+16	めがねはずす<X1>	Togli occhiali	8
+17	かべかえる<X1>	Cambia tappezz.	8
+18	ゆかかえる<X1>	Cambia pavimento	8
+19	ネックレスはずす<X1>	Togli collana<X1>	8
+20	おく/かえる<X1>	Posa/Scambia<X1>	8
+21	もとのなまえ：	Nome originale:	10
+22	とうろくされてないよ	Non registrato!	10
+23	かわいい	Carino è meglio!	10
+24	ふつう	Mi piaci, come amico.	10
+25	まばゆい	Abbagliante	10
+26	のまちでのなまえ	Nome in città	10
+27	ほかのプレイヤー	Altro giocatore	8
+28	クラスメイト	Comp. di classe	8
+29	よむ	Leggi gli appunti	8
+30	なまえへんこう	Cambia nome	8
+31	がっこうへんこう	Cambia scuola	8
+32	コードへんこう	Cambia codice	8
+33	あいてとうろく	Registra amico	8
+34	あいてかくにん	Conferma amico	8
+35	ほんとうにけす	Cancella davvero	8
+36	フレンドコード	Codice amico	8
+37	かかっているもの	Oggetti in uso	8
+38	からのお知らせ	Avviso da	8
+39	けす	Cancella	5
+40	どうする？	Che fai?	5
+41	ブキミがえるのアブラ	Grasso di rana	10
+42	てんしのひやく	Elisir dell'angelo	10
+43	バラについたよつゆ	Rugiada di rosa	10
+44	つきのしずく	Goccia di luna	10
+45	おとめのなみだ	Lacrime di fanciulla	10
+46	どくリンゴのジュース	Succo di mela avvelenata	10
+47	マンドラゴラのねっこ	Radice di mandragora	10
+48	くろバラのイバラ	Rovo di rose nere	10
+49	こだいリュウのウロコ	Squama di drago	10
+50	ながれぼしのカケラ	Frammento stelle filanti	10
+51	まじょのつめ	Artiglio di strega	10
+52	ぎんのスカラベ	Scarabeo d'argento	10
+53	アイテムをもってます	Ho degli oggetti.	10
+54	みならいマイスター	Maestro Apprendista	10
+55	ひとつぼしマイスター	Maestro a 1 Stella	10
+56	ふたつぼしマイスター	Maestro a 2 Stelle	10
+57	みつぼしマイスター	Maestro a 3 Stelle	10
+58	よつぼしマイスター	Maestro a 4 Stelle	10
+59	ロイヤルマイスター	Maestro Reale	10
+60	もりあげマイスター	Maestro dell'Animazione	10
+61	りゅうこうマイスター	Maestro della Tendenza	10
+62	セールスマイスター	Maestro delle Vendite	10
+63	アイドルマイスター	Maestro Idol	10
+64	おとくいマイスター	Maestro Specialista	10
+65	レシピマイスター	Maestro delle Ricette	10
+66	デコマイスター	Maestro del Decoro	10
+67	ごようたしマイスター	Maestro dei Favori	10
+68	はつうりフェア	Fiera dei Saldi d'Apertura	10
+69	バレンタインフェア	Fiera di San Valentino	10
+70	ホワイトデーフェア	Fiera del White Day	10
+71	スプリングフェア	Fiera di Primavera	10
+72	ははのひフェア	Fiera della Festa della Mamma	10
+73	ちちのひフェア	Fiera della Festa del Papà	10
+74	サマーフェア	Fiera d'Estate	10
+75	おまつりフェア	Fiera della Festa	10
+76	オータムフェア	Fiera d'Autunno	10
+77	ハロウィンフェア	Fiera di Halloween	10
+78	げいじゅつさいフェア	Fiera dell'Arte	10
+79	クリスマスフェア	Fiera di Natale	10
+80	マーチ「レインボー」	Marcia Arcobaleno	12
+81	ゴールデンイヤリング	Nemico pubblico	12
+82	はい！テンション	Un passo avanti!	12
+83	あこーくろーぬうた	L'alba e il tramonto	12
+84	ブロークンティアーズ	Fiumi in piena	12
+85	デジタルクラッシュ	Collisione digitale	12
+86	エボリューション85	Involuzione '85	12
+87	スウィートホーム	Casa dolce casa	12
+88	スターダストヒーロー	Stardust Hero	12
+89	デオ・グラティアス	La flor mas linda	12
+90	プルアウト！	La cresta dell'onda	12
+91	アスタ ルエゴ	Hasta la vista	12
+92	ウォーシャンニー！	Sogni di bambù	12
+93	わたぼうしとんだ	Formiche formiche	12
+94	ブラックパイソン	Asso di picche	12
+95	アイミスユー	Amore solitario	12
+96	カリオカのむすめ	Meo amigo Charlie	12
+97	シャウトシンドローム	Metallo atroce	12
+98	ダイナマイトシティー	Dynamite City	12
+99	ブギ・マイ・ライフ	Le ombre dell'amore	12
+100	こいのマジックショー	Illusioni d'amore	12
+101	タイフーン	Disordine simmetrico	12
+102	ドキドキフィルター	Filtro cardiaco	12
+103	さけんでみせろ！	A squarciagola	12
+104	ダブル・ジグ	Molly MacLennane	12
+105	ヘブンリー17	Dolcerossa 17	12
+106	いのちささげて	Sudore e lacrime	12
+107	すいきんくつ	Echi del mare	12
+108	グローリー	Gloria gloria!	12
+109	むすめたちのワルツ	Prendimi la mano	12
+110	せいれいのおどり	La danza delle fate	12
+111	サザンクロス	Croce del Sud	12
+112	ともしびをむねに	Raggi di sole	12
+113	ザッツ・ソウル	Piccola, oh piccola	12
+114	ダブ・ダイナミック	Le tue radici	12
+115	ディスコ・デイズ	Disco Vertigo	12
+116	Xレイ・ビート	Invasione a raggi X	12
+117	ワイキキ・サンセット	Tramonto waikiki	12
+118	ホット・ファンク	Uh-huh, Uh-huh!	12
+119	ベイビー・ブルース	Blues della formica	12
+120	ラ・ミア・べラドナ	Via dei Campi	12
+121	ブレイク・ジ・エアー	Drizza le orecchie	12
+122	ボルケーノダンス	Mistura speciale	12
+123	なつのゆうほどう	Vecchia città	12
+124	ライク・ア・ロール	A un miglio da casa	12
+125	はつゆめ	Primo sogno dell'anno	12
+126	せんきゃくばんらい	Clienti a frotte	12
+127	ははなるたいが	La grande Mamma	12
+128	バンブーリング	Anello di bambù	12
+129	バリ・パラダイス	Bali Paradise	12
+130	トロピカル・カクテル	Cocktail tropicale	12
+131	キャンドルナイト	Notte a lume di candela	12
+132	ナゾのおんがくNo１	Musica misteriosa n.1	11
+133	ナゾのおんがくNo２	Musica misteriosa n.2	11
+134	ナゾのおんがくNo３	Musica misteriosa n.3	11
+135	ナゾのおんがくNo４	Musica misteriosa n.4	11
+136	ナゾのおんがくNo５	Musica misteriosa n.5	11
+137	ナゾのおんがくNo６	Musica misteriosa n.6	11
+138	ナゾのおんがくNo７	Musica misteriosa n.7	11
+139	ナゾのおんがくNo８	Musica misteriosa n.8	11
+140	ナゾのおんがくNo９	Musica misteriosa n.9	11
+141	ナゾのおんがくNo１０	Musica misteriosa n.10	11
+142	ナゾのおんがくNo１１	Musica misteriosa n.11	11
+143	ナゾのおんがくNo１２	Musica misteriosa n.12	11
+144	ナゾのおんがくNo１３	Musica misteriosa n.13	11
+145	ナゾのおんがくNo１４	Musica misteriosa n.14	11
+146	ナゾのおんがくNo１５	Musica misteriosa n.15	11
+147	ナゾのおんがくNo１６	Musica misteriosa n.16	11
+148	ナゾのおんがくNo１７	Musica misteriosa n.17	11
+149	ナゾのおんがくNo１８	Musica misteriosa n.18	11
+150	ナゾのおんがくNo１９	Musica misteriosa n.19	11
+151	ナゾのおんがくNo２０	Musica misteriosa n.20	11
+152	ナゾのおんがくNo２１	Musica misteriosa n.21	11
+153	ナゾのおんがくNo２２	Musica misteriosa n.22	11
+154	ナゾのおんがくNo２３	Musica misteriosa n.23	11
+155	ナゾのおんがくNo２４	Musica misteriosa n.24	11
+156	ナゾのおんがくNo２５	Musica misteriosa n.25	11
+157	ナゾのおんがくNo２６	Musica misteriosa n.26	11
+158	ナゾのおんがくNo２７	Musica misteriosa n.27	11
+159	ナゾのおんがくNo２８	Musica misteriosa n.28	11
+160	ナゾのおんがくNo２９	Musica misteriosa n.29	11
+161	ナゾのおんがくNo３０	Musica misteriosa n.30	11
+162	ナゾのおんがくNo３１	Musica misteriosa n.31	11
+163	ナゾのおんがくNo３２	Musica misteriosa n.32	11
+164	ナゾのおんがくNo３３	Musica misteriosa n.33	11
+165	ナゾのおんがくNo３４	Musica misteriosa n.34	11
+166	ナゾのおんがくNo３５	Musica misteriosa n.35	11
+167	ナゾのおんがくNo３６	Musica misteriosa n.36	11
+168	ナゾのおんがくNo３７	Musica misteriosa n.37	11
+169	ナゾのおんがくNo３８	Musica misteriosa n.38	11
+170	ナゾのおんがくNo３９	Musica misteriosa n.39	11
+171	ナゾのおんがくNo４０	Musica misteriosa n.40	11
+172	ナゾのおんがくNo４１	Musica misteriosa n.41	11
+173	ナゾのおんがくNo４２	Musica misteriosa n.42	11
+174	ナゾのおんがくNo４３	Musica misteriosa n.43	11
+175	ナゾのおんがくNo４４	Musica misteriosa n.44	11
+176	ナゾのおんがくNo４５	Musica misteriosa n.45	11
+177	ナゾのおんがくNo４６	Musica misteriosa n.46	11
+178	ナゾのおんがくNo４７	Musica misteriosa n.47	11
+179	ナゾのおんがくNo４８	Musica misteriosa n.48	11
+180	ナゾのおんがくNo４９	Musica misteriosa n.49	11
+181	ナゾのおんがくNo５０	Musica misteriosa n.50	11
+182	ナゾのおんがくNo５１	Musica misteriosa n.51	11
+183	ナゾのおんがくNo５２	Musica misteriosa n.52	11
+184	ナゾのおんがくNo５３	Musica misteriosa n.53	11
+185	ナゾのおんがくNo５４	Musica misteriosa n.54	11
+186	ナゾのおんがくNo５５	Musica misteriosa n.55	11
+187	ナゾのおんがくNo５６	Musica misteriosa n.56	11
+188	ナゾのおんがくNo５７	Musica misteriosa n.57	11
+189	ナゾのおんがくNo５８	Musica misteriosa n.58	11
+190	ナゾのおんがくNo５９	Musica misteriosa n.59	11
+191	ナゾのおんがくNo６０	Musica misteriosa n.60	11
+192	ナゾのおんがくNo６１	Musica misteriosa n.61	11
+193	ナゾのおんがくNo６２	Musica misteriosa n.62	11
+194	ナゾのおんがくNo６３	Musica misteriosa n.63	11
+195	ナゾのおんがくNo６４	Musica misteriosa n.64	11
+196	ナゾのおんがくNo６５	Musica misteriosa n.65	11
+197	ナゾのおんがくNo６６	Musica misteriosa n.66	11
+198	ナゾのおんがくNo６７	Musica misteriosa n.67	11
+199	ナゾのおんがくNo６８	Musica misteriosa n.68	11
+200	ナゾのおんがくNo６９	Musica misteriosa n.69	11
+201	ナゾのおんがくNo７０	Musica misteriosa n.70	11
+202	ナゾのおんがくNo７１	Musica misteriosa n.71	11
+203	ナゾのおんがくNo７２	Musica misteriosa n.72	11
+204	ナゾのおんがくNo７３	Musica misteriosa n.73	11
+205	ナゾのおんがくNo７４	Musica misteriosa n.74	11
+206	ナゾのおんがくNo７５	Musica misteriosa n.75	11
+207	ナゾのおんがくNo７６	Musica misteriosa n.76	11
+208	ナゾのおんがくNo７７	Musica misteriosa n.77	11
+209	ナゾのおんがくNo７８	Musica misteriosa n.78	11
+210	ナゾのおんがくNo７９	Musica misteriosa n.79	11
+211	ナゾのおんがくNo８０	Musica misteriosa n.80	11
+212	ナゾのおんがくNo８１	Musica misteriosa n.81	11
+213	ナゾのおんがくNo８２	Musica misteriosa n.82	11
+214	ナゾのおんがくNo８３	Musica misteriosa n.83	11
+215	ナゾのおんがくNo８４	Musica misteriosa n.84	11
+216	ナゾのおんがくNo８５	Musica misteriosa n.85	11
+217	ナゾのおんがくNo８６	Musica misteriosa n.86	11
+218	ナゾのおんがくNo８７	Musica misteriosa n.87	11
+219	ナゾのおんがくNo８８	Musica misteriosa n.88	11
+220	ナゾのおんがくNo８９	Musica misteriosa n.89	11
+221	ナゾのおんがくNo９０	Musica misteriosa n.90	11
+222	ナゾのおんがくNo９１	Musica misteriosa n.91	11
+223	ナゾのおんがくNo９２	Musica misteriosa n.92	11
+224	ナゾのおんがくNo９３	Musica misteriosa n.93	11
+225	ナゾのおんがくNo９４	Musica misteriosa n.94	11
+226	ナゾのおんがくNo９５	Musica misteriosa n.95	11
+227	ナゾのおんがくNo９６	Musica misteriosa n.96	11
+228	ききたい おんがく	Musica desiderata	12
+229	おぼえた おんがく	Musica imparata	12
+230	おみせのおんがく	Musica del negozio	12
+231	おぼえたうた	Canzone imparata	12
+232	くれゆくじょうけい	Scena al tramonto	12
+233	さみだれのトッカータ	Toccata della pioggia	12
+234	バーボン・ストリート	Bourbon Street	12
+235	アンデスにふいたかぜ	Il vento sulle Ande	12
+236	ひつじかいとやまびこ	Pastore ed eco	12
+237	ほこりたかきキルト	Il fiero patchwork	12
+238	カリビアンカーニバル	Carnevale caraibico	12
+239	あくむのしろNo2	Il castello degli incubi n.2	12
+240	アボリジニのおどり	Danza aborigena	12
+241	どうけしたちのうた	Il canto dei buffoni	12
+242	こうやのはたしあい	Duello nella landa	12
+243	しのびよるかげ	L'ombra furtiva	12
+244	ひなたぼっこ	Crogiolarsi al sole	12
+245	ナゾのおんがくNo９７	Musica misteriosa n.97	12
+246	ナゾのおんがくNo９８	Musica misteriosa n.98	12
+247	ナゾのおんがくNo９９	Musica misteriosa n.99	12
+248	ナゾのおんがくNo１００	Musica misteriosa n.100	12
+249	ナゾのおんがくNo１０１	Musica misteriosa n.101	12
+250	ナゾのおんがくNo１０２	Musica misteriosa n.102	12
+251	ナゾのおんがくNo１０３	Musica misteriosa n.103	12
+252	ナゾのおんがくNo１０４	Musica misteriosa n.104	12
+253	ナゾのおんがくNo１０５	Musica misteriosa n.105	12
+254	ナゾのおんがくNo１０６	Musica misteriosa n.106	12
+255	ナゾのおんがくNo１０７	Musica misteriosa n.107	12
+256	ナゾのおんがくNo１０８	Musica misteriosa n.108	12
+257	ナゾのおんがくNo１０９	Musica misteriosa n.109	12
+258	ナゾのおんがくNo１１０	Musica misteriosa n.110	12
+259	ナゾのおんがくNo１１１	Musica misteriosa n.111	12
+260	ナゾのおんがくNo１１２	Musica misteriosa n.112	12
+261	ナゾのおんがくNo１１３	Musica misteriosa n.113	12
+262	ナゾのおんがくNo１１４	Musica misteriosa n.114	12
+263	ナゾのおんがくNo１１５	Musica misteriosa n.115	12
+264	ナゾのおんがくNo１１６	Musica misteriosa n.116	12
+265	なついろのコテージ	Prati verdi	10
+266	ハッピータウン	Sette giorni	10
+267	ラブ！パニック？	Amore! Panico?	10
+268	チョコレートコスモス	Cosmos al cioccolato	10
+269	バーニング・ロック	Burning Rock	10
+270	きみとのみらい	Il futuro con te	10
+271	かぜのわすれもの	La dimenticanza del vento	10
+272	かなしみをこえて	Oltre la tristezza	10
+273	いつかのあめのひ	Un giorno di pioggia	10
+274	あすへつづくみち	La strada verso domani	10
+275	クローバー	Quadrifoglio	10
+276	すてきなよるに	In una bella notte	10
+277	ながれぼし	Stella cadente	10
+278	テルミーラブ	Perspicacia	10
+279	たからさがし	Caccia tesoro	10
+280	へんしん	Trasformazione	10
+281	はなび	Party popper	10
+282	スカ	Buco nell'acqua	10
+283	ほしのでんごん	Mess. Stelle	10
+284	はなをふらせる	Fiordipioggia	10
+285	おとなりさん	Porte comunic.	10
+286	おもいがとどく	Dicoilmioamore	10
+287	ゆめまくら	Sogni d'oro	10
+288	となりのせき	Comp. di banco	10
+289	こえたか	Ce l'hai fatta	10
+290	ゆうとうせい	Bravo a scuola	10
+291	チラシをばらまく	Spargi volantini	10
+292	とびらをよぶ	Canc. mistero	10
+293	イタズラちらし	Volantino burlone	10
+294	とうめい	Invisibilità	10
+295	ふしぎばな	Fiore magico	10
+296	ヘソクリ	Risparmi segreti	10
+297	キノコがふえる	Funghi in più	10
+298	むしさがし	Caccia insetti	10
+299	テルミーニーズ	Bisogni svelati	10
+300	おおかなダライ	Gran catino	10
+301	おかしをふらせる	Pioggia di dolci	10
+302	おおはなび	Gran party popper	10
+303	ハンモックもく	Amaca nuvole	10
+304	へんしんかいじょ	Annulla trasf.	10
+305	できるてんいん	Commesso modello	10
+306	つかいま	Genio amico	10
+307	こくはく	Confessione	10
+308	きんうん	Fortuna col denaro	10
+309	ともだちふえる	Aumenta popolarità	10
+310	おしゃべり	Chiacchiere	10
+311	せかいじゅ	Alberomondo	10
+312	はらおどり	Danza della pancia	10
+313	らぶらぶモック	Amaca d'amore	10
+314	おおオナラ	Gran flatulenza	10
+315	ショーライトのコーデ	Look Luci di Scena	10
+316	よぞらのコーデ	Look Cielo Stellato	10
+317	シャボンだま	Bolle di sapone	12
+318	だいしゅうごう！	Grande raduno!	12
+319	こいするケーキ	Torta d'amore	12
+320	ムードクッキー	Biscotto dell'Amore	12
+321	ビックリパイ	Torta Sorpresa	12
+322	おさそいブーケ	Bouquet d'invito	12
+323	やすらぎティー	Tè rilassante	12
+324	みわくのかおり	Aroma del fascino	12
+325	イケてるふく	Vestito alla moda	12
+326	ランプのせい	Genio della lampada	12
+327	イタズラはねペン	Penna burlona	12
+328	★つたわるきもち	Sentimenti trasmessi	12
+329	★おだやかなかおり	Aroma delicato	12
+330	★みわくのかおり	Aroma del fascino	12
+331	★キョーレツなかおり	Aroma intenso	12
+332	★かわいいまほうのふく	Abito magico carino	12
+333	★かっこいいまほうのふく	Abito magico figo	12
+334	★シンプルまほうのふく	Abito magico semplice	12
+335	★ゴージャスまほうのふく	Abito magico sfarzoso	12
+336	★きんうん↑ レアうん↓	Fortuna denaro su, Fortuna rara giù	12
+337	★レアうん↑ かんけい↓	Fortuna rara su, Relazioni giù	12
+338	★きんうん↓	Fortuna denaro giù	12
+339	★きんうん↑ かんけい↓	Fortuna denaro su, Relazioni giù	12
+340	★かんけい↑ きんうん↓	Relazioni su, Fortuna denaro giù	12
+341	★きんうん↑	Fortuna denaro su	12
+342	★かんけい↓	Relazioni giù	12
+343	★レアうん↑	Fortuna rara su	12
+344	★かんけい↑ レアうん↓	Relazioni su, Fortuna rara giù	12
+345	★レアうん↑ きんうん↓	Fortuna rara su, Fortuna denaro giù	12
+346	★レアうん↓	Fortuna rara giù	12
+347	★モテモテだいまほう	Grande magia della popolarità	12
+348	★ダサダサだいまほう	Grande magia dell'impacciato	12
+349	★はんじょうだいまほう	Grande magia del successo	12
+350	★おみせヒマだいまほう	Grande magia del negozio vuoto	12
+351	★せんでん↑だいまほう	Grande magia pubblicità su	12
+352	★せんでん↓だいまほう	Grande magia pubblicità giù	12
+353	★ラッキーだいまほう	Grande magia della fortuna	12
+354	★アンラッキーだいまほう	Grande magia della sfortuna	12
+355	★なかよしだいまほう	Grande magia dell'amicizia	12
+356	★なにもなし！	Niente di niente!	12
+357	★イタズラだいまほう	Grande magia dei dispetti	12
+358	いまはなにもいらないな	Per ora non mi serve niente	16
+359	ひとがほしがらないものがほしい	Voglio qualcosa che nessuno desidera	16
+360	ふしぎなものがほしい	Voglio qualcosa di misterioso	16
+361	キレイなはながほしいなあ	Vorrei dei bei fiori	16
+362	キノコがたべたいなあ	Mi andrebbe di mangiare dei funghi	16
+363	くだものがたべたいなあ	Mi andrebbe un po' di frutta	16
+364	キレイなほうせきがほしいな	Vorrei una bella gemma	16
+365	がっきで おんがくをやりたいな	Mi va di suonare uno strumento	16
+366	げんきになる くすりがほしい	Vorrei una medicina che dia energia	16
+367	やっぱり おカネがほしいな	Alla fine, voglio dei soldi	16
+368	ふだんよくみる いきものがほしい	Voglio un animale che si vede spesso	16
+369	キレイないきものがほしい	Voglio un animale bellissimo	16
+370	カッコイイいきものほしいな	Voglio un animale figo	16
+371	みんなイヤがる いきものがほしい	Voglio un animale che a tutti fa schifo	16
+372	ふしぎないきものがほしい	Voglio un animale misterioso	16
+373	キレイなネックレスがほしい	Vorrei una bella collana	16
+374	キレイなティアラがほしい	Vorrei un bel diadema	16
+375	キレイなアクセサリーがほしい	Vorrei un bell'accessorio	16
+376	いまは ふくがほしい！	Adesso voglio dei vestiti!	16
+377	いまは ふくがほしいなあ	Adesso mi andrebbe un vestito	16
+378	ジャケットがほしい！	Voglio una giacca!	16
+379	ズボンがほしいな	Vorrei dei pantaloni	16
+380	あたらしいふくがほしい！	Voglio dei vestiti nuovi!	16
+381	う～ん ふくはほしいなあ	Mmm... mi piacerebbe un vestito	16
+382	ごうかなふくがほしい！	Voglio un vestito sfarzoso!	16
+383	あたたかいコートがほしい	Voglio un cappotto caldo	16
+384	いまはくつがほしい！	Adesso voglio delle scarpe!	16
+385	きれいなはなたばがほしい	Vorrei un bel mazzo di fiori	16
+386	おいしいマフィンがたべたい	Mi andrebbe un buon muffin	16
+387	おいしいケーキがたべたいな	Mi andrebbe una buona torta	16
+388	さっくりしたパイがたべたい！	Voglio una torta salata croccante!	16
+389	カレーかハヤシライスがたべたい	Mi va un curry o del riso al ragù	16
+390	つめた～いおかしがたべたい	Voglio un dolce freddissimo	16
+391	アツアツのステーキがたべたい	Voglio una bistecca fumante	16
+392	おいしいクレープがたべたい！	Mi andrebbe una buona crêpe!	16
+393	おいしいスープがのみたい！	Mi va una bella zuppa!	16
+394	あついオーブンりょうりがたべたい	Mi va un piatto cotto al forno bello caldo	16
+395	どんぶりりょうりがたべたい！	Voglio un piatto in ciotola!	16
+396	コシのあるうどんがたべたい	Voglio degli udon bene al dente	16
+397	おいしいラーメンがたべたいな	Mi va un buon ramen	16
+398	おいし～い おそばがたべたい！	Voglio dei soba buonissimi!	16
+399	あえてしっぱいりょうりをたべたい	Voglio mangiare un piatto venuto male apposta	16
+400	こいのケーキがほしい！	Voglio una torta d'amore!	16
+401	ふんいきクッキーがほしいな	Vorrei un biscotto dell'atmosfera	16
+402	ビックリパイがほしいな	Vorrei una Torta Sorpresa	16
+403	おもいのとどくブーケがほしいな	Vorrei un bouquet che trasmetta i sentimenti	16
+404	まほうのこうすいがほしい！	Voglio un profumo magico!	16
+405	まほうのふくがほしいな	Vorrei un abito magico	16
+406	まほうのおまもりがほしい！	Voglio un amuleto magico!	16
+407	ほうせきばこがほしい！	Voglio un portagioie!	16
+408	まほうのランプがほしい！	Voglio una lampada magica!	16
+409	まほうのペンがほしい！	Voglio una penna magica!	16
+410	あたらしいぼうしがほしい！	Voglio un cappello nuovo!	16
+411	ウチにかざるかぐがほしいな	Vorrei dei mobili per decorare casa	16
+412	カラッとしたあげものがたべたい！	Voglio un bel fritto croccante!	16

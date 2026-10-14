@@ -1,0 +1,375 @@
+0	Foto non salvata: SD piena (limite foto raggiunto).
+1	Foto non salvata: errore file sulla scheda SD.
+2	Annulla stile?
+3	Cancella comuni
+4	Cancella armadio
+5	Niente
+6	Sotterra
+7	Parete
+8	Pavim.
+9	Soldi +
+10	Soldi -
+11	Posa/Sc.
+12	Sotterra<X1>
+13	Lib.ins.<X1>
+14	Lib.pes.<X1>
+15	Tog.capp<X1>
+16	Tog.occh<X1>
+17	Parete<X1>
+18	Pavim.<X1>
+19	Tog.coll<X1>
+20	Posa/Sc.<X1>
+21	Nome orig:
+22	Non reg.!
+23	Carino
+24	Normale
+25	Radioso
+26	Nome città
+27	Giocat.
+28	Compagno
+29	Leggi
+30	Nome
+31	Scuola
+32	Codice
+33	Aggiungi
+34	Verifica
+35	Elimina
+36	Cod.amic
+37	In uso
+38	Avviso
+39	Cancella
+40	?
+41	Olio rana
+42	Elis.angel
+43	Rug. rosa
+44	Gocce luna
+45	Lacr.fanc.
+46	Succo mela
+47	Mandragora
+48	Spine nere
+49	Sq. drago
+50	Fram.stell
+51	Art.strega
+52	Scarab.arg
+53	Ho oggetti
+54	Novizio
+55	Maestro 1★
+56	Maestro 2★
+57	Maestro 3★
+58	Maestro 4★
+59	Sovrano
+60	Animatore
+61	Alla moda
+62	Venditore
+63	Idolo
+64	Beniamino
+65	Ricettista
+66	Decoratore
+67	Fornitore
+68	Apertura
+69	Valentino
+70	White Day
+71	Primavera
+72	Fest.Mamma
+73	Fest.Papà
+74	Estate
+75	Festival
+76	Autunno
+77	Halloween
+78	Fest.Arte
+79	Natale
+80	Marcia Iride
+81	Golden Ring
+82	Su di giri!
+83	Alba e sera
+84	Pianto rotto
+85	Digi-Crash
+86	Involuz. 85
+87	Dolce casa
+89	Deo Gratias
+90	Sull'onda
+92	Sogno bambù
+93	Soffione
+94	Black Python
+95	I Miss You
+97	Grido Metal
+98	Dyna-City
+99	Boogie Life
+100	Show d'amore
+101	Tifone
+102	Filtro cuore
+103	Grida forte!
+104	Double Jig
+105	Celeste 17
+107	Eco d'acqua
+108	Gloria
+109	Valzer girls
+110	Danza fate
+111	Croce Sud
+112	Fiamma cuore
+113	That's Soul
+114	Dub Dynamic
+115	Disco Days
+116	X-Ray Beat
+117	Waikiki Sera
+118	Hot Funk
+119	Baby Blues
+120	Belladonna
+121	Rompi l'aria
+122	Danza lava
+123	Passeggiata
+124	Like a Roll
+125	Primo sogno
+126	Clientela
+127	Mamma grande
+128	Bamboo Ring
+129	Bali Eden
+130	Tropical Mix
+131	Candle Night
+132	Mistero 1
+133	Mistero 2
+134	Mistero 3
+135	Mistero 4
+136	Mistero 5
+137	Mistero 6
+138	Mistero 7
+139	Mistero 8
+140	Mistero 9
+141	Mistero 10
+142	Mistero 11
+143	Mistero 12
+144	Mistero 13
+145	Mistero 14
+146	Mistero 15
+147	Mistero 16
+148	Mistero 17
+149	Mistero 18
+150	Mistero 19
+151	Mistero 20
+152	Mistero 21
+153	Mistero 22
+154	Mistero 23
+155	Mistero 24
+156	Mistero 25
+157	Mistero 26
+158	Mistero 27
+159	Mistero 28
+160	Mistero 29
+161	Mistero 30
+162	Mistero 31
+163	Mistero 32
+164	Mistero 33
+165	Mistero 34
+166	Mistero 35
+167	Mistero 36
+168	Mistero 37
+169	Mistero 38
+170	Mistero 39
+171	Mistero 40
+172	Mistero 41
+173	Mistero 42
+174	Mistero 43
+175	Mistero 44
+176	Mistero 45
+177	Mistero 46
+178	Mistero 47
+179	Mistero 48
+180	Mistero 49
+181	Mistero 50
+182	Mistero 51
+183	Mistero 52
+184	Mistero 53
+185	Mistero 54
+186	Mistero 55
+187	Mistero 56
+188	Mistero 57
+189	Mistero 58
+190	Mistero 59
+191	Mistero 60
+192	Mistero 61
+193	Mistero 62
+194	Mistero 63
+195	Mistero 64
+196	Mistero 65
+197	Mistero 66
+198	Mistero 67
+199	Mistero 68
+200	Mistero 69
+201	Mistero 70
+202	Mistero 71
+203	Mistero 72
+204	Mistero 73
+205	Mistero 74
+206	Mistero 75
+207	Mistero 76
+208	Mistero 77
+209	Mistero 78
+210	Mistero 79
+211	Mistero 80
+212	Mistero 81
+213	Mistero 82
+214	Mistero 83
+215	Mistero 84
+216	Mistero 85
+217	Mistero 86
+218	Mistero 87
+219	Mistero 88
+220	Mistero 89
+221	Mistero 90
+222	Mistero 91
+223	Mistero 92
+224	Mistero 93
+225	Mistero 94
+226	Mistero 95
+227	Mistero 96
+228	Da ascoltare
+229	Musica nota
+230	Musica shop
+231	Canzone nota
+232	Scena serale
+233	Tocc.pioggia
+234	Bourbon St.
+235	Vento Ande
+236	Pastore, eco
+237	Fiero quilt
+238	Carib.Carn.
+239	Cast.incub.2
+240	Danza Abor.
+241	Canto clown
+242	Duello landa
+243	Ombra furt.
+244	Sole e relax
+245	Mistero 97
+246	Mistero 98
+247	Mistero 99
+248	Mistero 100
+249	Mistero 101
+250	Mistero 102
+251	Mistero 103
+252	Mistero 104
+253	Mistero 105
+254	Mistero 106
+255	Mistero 107
+256	Mistero 108
+257	Mistero 109
+258	Mistero 110
+259	Mistero 111
+260	Mistero 112
+261	Mistero 113
+262	Mistero 114
+263	Mistero 115
+264	Mistero 116
+265	Cottage
+266	Happy Town
+267	Love Panic
+268	Cosm.cioc.
+269	Rock fuoco
+270	Futuro noi
+271	Dal vento
+272	Oltre pena
+273	Rainy Day
+274	Via domani
+275	Trifoglio
+276	Che notte!
+277	Meteora
+281	Fuochi
+282	Buco acqua
+285	Vicini
+289	Superato
+294	Invisibile
+300	Catinone
+304	Trasf. off
+306	Famiglio
+307	Dichiara
+308	Fort.soldi
+309	Più amici
+310	Parlantina
+315	Look luci
+316	Look notte
+318	Gran raduno!
+323	Tè relax
+328	Sentimenti
+329	Aroma lieve
+330	Aroma charme
+331	Aroma forte
+332	Abito carino
+333	Abito figo
+334	Abito basic
+335	Abito lusso
+336	Soldi+ Rara-
+337	Rara+ Amic-
+338	Soldi-
+339	Soldi+ Amic-
+340	Amic+ Soldi-
+341	Soldi+
+342	Amic-
+343	Rara+
+344	Amic+ Rara-
+345	Rara+ Soldi-
+346	Rara-
+347	Magia fama
+348	Magia cringe
+349	Magia boom
+350	Magia vuoto
+351	Magia pubb.+
+352	Magia pubb.-
+353	Magia lucky
+354	Magia sfiga
+355	Magia amici
+356	Niente!
+357	Magia burle
+358	Non voglio nulla
+359	Cosa non voluta
+360	Cosa misteriosa
+361	Voglio bei fiori
+362	Voglio funghi
+363	Voglio frutta
+364	Voglio gemme
+365	Voglio suonare
+366	Voglio pozioni
+367	Voglio soldi
+368	Animale comune
+369	Animale bello
+370	Animale figo
+371	Animale schifoso
+372	Animale strano
+373	Bella collana
+374	Bel diadema
+375	Bell'accessorio
+376	Voglio vestiti!
+377	Vorrei vestiti
+378	Una giacca!
+379	Dei pantaloni
+380	Vestiti nuovi!
+381	Mmm... un abito
+382	Abito sfarzoso!
+383	Cappotto caldo
+384	Delle scarpe!
+385	Mazzo di fiori
+386	Un buon muffin
+387	Una buona torta
+388	Pie croccante!
+389	Curry o ragù
+390	Dolce freddo
+391	Bistecca fumante
+392	Una buona crepe
+393	Una bella zuppa
+394	Piatto al forno
+395	Un donburi
+396	Udon al dente
+397	Un buon ramen
+398	Soba buonissimi
+399	Piatto fallito
+400	Torta d'amore!
+401	Mood Cookie
+402	Pie sorpresa
+403	Bouquet d'amore
+404	Profumo magico!
+405	Abito magico
+406	Amuleto magico!
+407	Un portagioie!
+408	Lampada magica!
+409	Penna magica!
+410	Cappello nuovo!
+411	Mobili per casa
+412	Un bel fritto!

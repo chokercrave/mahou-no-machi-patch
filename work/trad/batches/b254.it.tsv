@@ -1,0 +1,144 @@
+34689	Inizio la configurazione delle voci.
+34690	Quale operazione vuoi eseguire sulle tendenze?<X1>
+34691	Ricevi un oggetto<X1>
+34692	Non diffondere l'oggetto<X1>
+34693	Tutti gli oggetti della finestra oggetti spariranno. Va bene?<X1>
+34694	Il prodotto della Classifica delle Tendenze che stavi cercando di lanciare con la pubblicità
+34695	verrà sostituito dall'oggetto esposto. Va bene?<X1>
+34696	Hai registrato l'oggetto nella finestra oggetti.
+34697	Termino l'operazione.
+34698	Esponi il prodotto che vuoi lanciare come tendenza.
+34699	Hai rinunciato a lanciare la tendenza. Termino l'operazione.
+34700	Hai sostituito il prodotto da lanciare come tendenza.
+34701	Avanzando la data di 3 giorni o più con il debug, si entra nello stato di tendenza.
+34702	Come far nascere una voce
+34703	Avvia il gioco e avanza la data di 7 giorni.
+34704	In questo modo le voci hanno inizio.
+34705	Poi, avanza di 3 giorni: in base allo stato del negozio di <P>,
+34706	se è possibile un cambiamento, si passa alla fase successiva.
+34707	Dopo il passaggio, se senti le voci da almeno 5 abitanti,
+34708	e il giorno dopo vai al negozio e la voce era positiva,
+34709	scatta l'evento.
+34710	Per la tendenza, il valore del punto indicato con SC nella pagina 31 del debug deve essere 200:
+34711	solo così si può lanciare una tendenza.
+34712	Se SC alla pagina 31 è 200, avanzando la data di più di 3 giorni
+34713	si entra nello stato di tendenza.
+34714	Avanzando di altri 8 giorni, inizia il periodo di declino.
+34715	Quando inizia il declino, avanza di 5 giorni e la tendenza finisce.
+34716	Hai rinunciato.
+34717	Ti darò supporto su tendenze e voci.
+34718	Scegli di che cosa hai bisogno.<X1>
+34719	Sulle tendenze<X1>
+34720	Sulle voci<X1>
+34721	Gusti degli abitanti<X1>
+34722	Chiama un abitante<X1>
+34723	Avvio il supporto sulle tendenze.
+34724	Avvio il supporto sulle voci.
+34725	Ti dico i gusti degli abitanti della città.
+34726	Hachi: ama il salato! Elia: palato difficile, giudizio severo Ginevra: ama tutto!
+34727	Martino: solo l'aspro Fuji: solo il piccante TV20C: gusti per niente fini
+34728	Rosa: ama il piccante! Lisa: ama il dolce! Uri: ama l'aspro!
+34729	Sofia: ama l'agrodolce Jules: ama il dolce-piccante
+34730	Chiamo l'abitante scelto nella hall.
+34731	Il supporto è stato annullato dall'utente.
+34732	Scegli il supporto di cui hai bisogno.<X1>
+34733	Stato attuale<X1>
+34734	Trendsetter<X1>
+34735	Sovrascriverai l'oggetto che hai ora. Vuoi riceverlo?<X1>
+34736	Hai sovrascritto la finestra oggetti.
+34737	Oggetti registrati e gusto: Tendon: salato Torta fragola e melone: dolce
+34738	Curry carne e carote: piccante Parfait limone e frutti di bosco: aspro
+34739	Ora la tendenza è nella fase di preludio.
+34740	Ora l'oggetto che potrebbe diventare di tendenza è <X1>.
+34741	Ora la tendenza è nella fase di piena esplosione.
+34742	L'oggetto di tendenza ora è <X1>.
+34743	Ora la tendenza è nella fase di declino.
+34744	Il prossimo oggetto che potrebbe andare di moda è <X1>.
+34745	Ti dico chi sta lanciando la tendenza attuale.
+34746	Uno dei lanciatori della tendenza attuale è <X1>.
+34747	Il prodotto che si sta cercando di lanciare è <X1>.
+34748	L'altro lanciatore della tendenza attuale è <X1>.
+34749	Una tendenza si compone di 3 fasi.
+34750	1: preludio 2: esplosione 3: declino della tendenza
+34751	Durata delle fasi: preludio 3 giorni, esplosione 7 giorni,
+34752	declino 4 giorni.
+34753	Se pubblicizzi un prodotto e viene riconosciuto come di tendenza, la tendenza esplode.
+34754	Scegli il supporto di cui hai bisogno.<X1>
+34755	Cambia le voci<X1>
+34756	Cambia la valutazione<X1>
+34757	Di norma le voci nascono dopo un certo periodo in cui il PG si impegna,
+34758	ma con questa impostazione puoi far nascere una voce a forza.
+34759	Gestisci lo stato della valutazione del negozio di <P>.
+34760	Le voci procedono in 2 fasi: 1: periodo di esame 2: dopo l'esame
+34761	Se il PG si impegna nel negozio, nascono voci e tutti ci fanno caso.
+34762	Dopo 3-6 giorni gli abitanti giudicano l'impegno del PG e se ne accorgono.
+34763	Anche quando il PG non si impegna, viene valutato allo stesso modo.
+34764	Se la voce è positiva e la senti da 5 abitanti, il giorno dopo
+34765	entrando nel tuo negozio compare il <c3>Re</c> e il negozio fa il pieno di clienti.
+34766	Se la valutazione non è possibile, la voce può svanire.
+34767	Imposta la nascita di una voce.
+34768	Di quale voce vuoi che si parli in città?<X1>
+34769	Atmosfera<X1>
+34770	Tutti in città si chiedono se da qualche parte ci sia un negozio con una bella atmosfera.
+34771	Dopo 3-6 giorni dall'aver sentito questa voce, si parlerà di com'era il negozio del PG.
+34772	Tutti in città si chiedono se da qualche parte ci sia un negozio affollatissimo.
+34773	Tutti in città si chiedono se da qualche parte ci sia un negozio al passo con le tendenze.
+34774	Tutti in città si chiedono se da qualche parte ci sia un negozio con ottimo servizio.
+34775	Tutti in città si chiedono se da qualche parte ci sia un negozio ben fornito.
+34776	Che cosa vuoi fare della voce?<X1>
+34777	Hai reso positiva la valutazione della voce attuale.
+34778	Si dice che il negozio del PG abbia una buona fama.
+34779	Hai reso negativa la valutazione della voce attuale.
+34780	Si dice che il negozio del PG abbia una cattiva fama.
+34781	Hai reso neutra la valutazione della voce attuale.
+34782	Non si parlerà dell'esito e, a seconda dello stato, la voce potrebbe svanire.
+34783	Quale abitante vuoi chiamare a forza?<X1>
+34784	Hachi<X1>
+34785	Elia<X1>
+34786	Ginevra<X1>
+34787	Martino<X1>
+34788	Pagina successiva<X1>
+34789	Fuji<X1>
+34790	Rosa<X1>
+34791	Lisa<X1>
+34792	Uri<X1>
+34793	Sofia<X1>
+34794	Jules<X1>
+34795	Allora, li chiamo!
+34796	Hai ricevuto <c4>[Premio xxxx]</c> Rich!
+34797	Ehm! <c3>Principessa!</c> Che cosa ci fate lì?!
+34798	Mi avete scoperta...
+34799	Ma ero troppo curiosa...
+34800	La <c3>Principessa</c> ha studiato in un paese lontano
+34801	ed è stata a lungo lontana dal palazzo,
+34802	quindi tutto vi sembra insolito, immagino... Ma questo
+34803	è un importante lavoro di <c3>Sua Maestà</c>. Non disturbate!
+34804	Del resto, <c3>Principessa</c>, siete sempre la solita...
+34805	Senti... tu ti interessi di moda?
+34806	Lo sapevo! Eri proprio come pensavo.
+34807	Il mio occhio non sbaglia mai...
+34808	Allora, <P>, da ora in poi...
+34809	Vorrei che diffondessi la moda tra tutti!
+34810	Ho provato a creare luoghi e riviste per questo, ma non è andata molto bene...
+34811	Oggi avevo come un presentimento!
+34812	Che sarebbe arrivato qualcuno che diffonde la moda... Ihih!
+34813	Per i dettagli, chiedi al <c3>Promoter</c>, va bene?
+34814	Eh? Non preoccuparti!
+34815	Parlerò io di te, non temere.
+34816	Allora, <P>, buon lavoro!
+34817	Davvero? Che peccato... Ma!
+34818	Potresti sempre appassionarti alla moda, in futuro.
+34819	È più che probabile.
+34820	Anzi, succederà di sicuro!
+34821	E allora vorrei che diffondessi la moda tra tutti.
+34822	Perciò, per prepararti...
+34823	Fatti spiegare i dettagli dal <c3>Promoter</c>, ti farà bene.
+34824	Parlerò io di te, quindi promettimi che ci andrai, d'accordo?
+34825	Conto su di te, <P>!
+34826	Allora, <c3>Principessa</c>, avete finito di parlare?
+34827	Su, <c3>Principessa</c>, da questa parte...
+34828	Ho finito... <P>, mi raccomando, il desiderio della <c3>Principessa</c>.
+34829	Oh, <P>, vi ho convocato proprio per questo:
+34830	la <c3>Principessa</c> ha studiato in un paese lontano
+34831	ed è stata a lungo lontana dal palazzo.
+34832	Ora è tornata e sta salutando tutti.

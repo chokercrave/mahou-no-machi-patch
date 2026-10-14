@@ -1,0 +1,409 @@
+0	Fiocco di neve
+1	Giovane Driade
+2	Pupazzo di neve
+3	Testa di Dullahan
+4	Tomo vietato
+5	Fungo magico
+6	Cerchio magico
+7	Orma gigante
+8	Tombino
+9	Cerchio pesce
+10	Cerchio insetto
+11	Cerchio sorriso
+12	Amaca nuvole
+13	Medag. anti-demoni
+14	Decorazione pino
+15	Lanterna Halloween
+16	Medaglia al Valore
+17	Forziere del tesoro
+18	Sfida scritta
+19	Fiammiferi
+20	Albero di Natale
+21	Tesoro del Grifone
+22	Giovane pianta
+23	Giovane latifoglia
+24	Giovane conifera
+25	Cespuglio bacche
+26	Tulipano bianco
+27	Tulipano rosso
+28	Tulipano giallo
+29	Tulipano blu
+30	Margherita bianca
+31	Margherita rossa
+32	Margherita gialla
+33	Margherita nera
+34	Mughetto bianco
+35	Mughetto rosso
+36	Mughetto giallo
+37	Mughetto arancione
+38	Cuorfiore rosso
+39	Scutellaria bianca
+40	Fiorgemma rosso
+41	Fiorcandito giallo
+42	Rosa appassita
+43	Tulipano appassito
+44	Margherita appass.
+45	Mughetto appassito
+46	Cuorfiore appass.
+47	Scutellaria appass.
+48	Fiorgemma appass.
+49	Fiorcandito appass.
+50	Porcino dei pini
+51	Tartufo nero
+52	Tartufo bianco
+53	Tricoloma
+54	Fungo della risata
+55	Fungo di bosco
+56	Volvaria
+57	Prataiolo
+58	Fungo del bambù
+59	Steccherino
+60	Mazza da tamburo
+61	Finferlo
+62	Fungo corallo
+63	Trombetta dei morti
+64	Fungo dell'olmo
+65	Fungo di muschio
+66	Fungo cavolfiore
+67	Fungo fosforesc.
+68	Gallina dei boschi
+69	Orecchietta
+70	Mirtillo rosso
+71	Bacca marcita
+72	Minerale
+73	1 Ritch
+74	10 Ritch
+75	100 Ritch
+76	1000 Ritch
+77	10000 Ritch
+78	100000 Ritch
+79	Seme di rosa
+80	Seme di tulipano
+81	Seme di margherita
+82	Seme di mughetto
+83	Giovane pianta
+84	Seme di mora
+85	Seme di mirtillo
+86	Seme di ribes
+87	Seme di lampone
+88	Seme di fragola
+89	Cardonc. speciale
+90	Mobile ricordo
+91	Caramelle
+92	Ferro
+93	Oro
+94	Argento
+95	Rame
+96	Stagno
+97	Zolfo
+98	Radice Mandragora
+99	Rovo di rose nere
+100	Squama di drago
+101	Framm. stelle filan.
+102	Artiglio di strega
+103	Scarabeo argento
+104	Grasso di rana
+105	Elisir dell'angelo
+106	Rugiada di rosa
+107	Goccia di luna
+108	Lacrime di fanciulla
+109	Succo mela avvel.
+110	Osso di cane
+111	Osso di animale
+112	Lisca di pesce
+113	Dente cariato
+114	Osso di ferro
+115	Vecchio ombrello
+116	Ossa di maiale
+117	Osso di pollo
+118	Osso di cristallo
+119	Lisca pesce gigan.
+120	Zanna lupo mannaro
+121	Ossa di mammut
+122	Osso inscritto
+123	Osso degli antichi
+124	Osso terraiolo
+125	Osso di gigante
+126	Ossa di drago
+127	Corni di orco
+128	Ossa maledette
+129	Osso di cimitero
+130	Osso di demone
+131	Pala
+132	Canna da pesca
+133	Rete per insetti
+134	Scopa di saggina
+135	Scopa auto
+136	Scopa Biancavallo
+137	Scopa farfalla
+138	Scopa caramella
+139	Scopa fulmine
+140	Scopa fuoristrada
+141	Scopa di alluminio
+142	Scopa mini-aspirap.
+143	Scopa aspirapol.
+144	Scopa lanterna
+145	Scopa libellula
+146	Scopa gnocco
+147	Scopa cucchiaio
+148	Scopa stelle filanti
+149	Sassofono
+150	Chitarra acustica
+151	Chitarra elettrica
+152	Kit mini batteria
+153	Bacchetta stella
+154	Bacc. con anello
+155	Bastone grazioso
+156	Bastone cristallo
+157	Ombrellone magico
+158	Bacchetta teschio
+159	Bastone girasole
+160	Bastone di legno
+161	Bacc. Poseidone
+162	Bastone del tuono
+163	Bastone da signore
+164	Giac. unif. ragazzo
+165	Giac. unif. ragazza
+166	Giacca blazer
+167	Giacca coreana
+168	Top marinara est.
+169	Top marinara inv.
+170	Cravatta e camic.
+171	Nastro e camicetta
+172	Cravat. e casacca
+173	Nastro e casacca
+174	T-Shirt logo rosa
+175	T-Shirt rosa chiaro
+176	T-Shirt arcobaleno
+177	T-Shirt gatto
+178	T-Shirt arancione
+179	T-Shirt cuore
+180	T-Shirt righe past.
+181	Cam. fiori bianca
+182	Parka blu pastello
+183	Parka logo numero
+184	Parka cuore
+185	Camiciola sportiva
+186	Camiciola con ruche
+187	Giacca denim corta
+188	Giubbino a strati
+189	Gilè rosa
+190	Cardigan lana righe
+191	Top leopardato
+192	T-Shirt lett. rossa
+193	T-Shirt anarchia
+194	T-Shirt simb. pace
+195	T-Shirt techno
+196	T-Shirt reggae
+197	T-Shirt aranc. righe
+198	T-Shirt mimetica
+199	T-Shirt tulipano
+200	T-Shirt nr. 5
+201	T-Shirt mucca
+202	T-Shirt diamante
+203	T-Shirt stella blu
+204	Camicia flanella
+205	Camicia cowboy
+206	Camicia a scacchi
+207	Cam. fantasia blu
+208	Parka semplice
+209	Parka con zip
+210	Cam. sciarpa viola
+211	Maglione vaporoso
+212	Maglione col. terra
+213	Maglione amore
+214	Pullover bluette
+215	Piumino smanicato
+216	Camicia aperta
+217	Parka a strati
+218	Maglia scollo a V
+219	Giubbino con zip
+220	Giacca smanic. blu
+221	Bomber verde
+222	Giacca denim blu
+223	Giacca pelle rossa
+224	T-Shirt serpente
+225	Top forze speciali
+226	T-Shirt teschio ner.
+227	T-Shirt fiamma
+228	T-Shirt punk
+229	T-Shirt Ora Magica
+230	T-Shirt tinta mano
+231	Top moda moto nero
+232	Gilè mimetico
+233	T-Shirt viola
+234	T-Shirt leopardata
+235	Casacca infermiera
+236	Divisa negozio
+237	Giacca unif. pilota
+238	Unif. assistente
+239	Giacca pompiere
+240	Camice scienziato
+241	Giacca pilota auto
+242	Uniforme ufficiale
+243	Giacca rocker
+244	Giacca pigiama
+245	T-Shirt Hawaii blu
+246	T-Shirt cuore sin.
+247	T-Shirt cuore des.
+248	Top rosa prescol.
+249	Giacca da vecchio
+250	Costume giullare
+251	Giacca cowboy
+252	Giacca elegante
+253	Giacca esploratore
+254	Giacca prigioniero
+255	Costume robot
+256	Giacca kimono blu
+257	Giacca saldi
+258	T-Shirt scheletro
+259	Top UFO
+260	Armatura cavaliere
+261	Giacca clown
+262	Giacca Babbo Nat.
+263	Giacca lord
+264	Giacca pirata
+265	Camicia moto pelle
+266	Giacca principe
+267	Giacca tuta spaz.
+268	Camicia biscotto
+269	Camicia eff. sporco
+270	Casacca pilota aer.
+271	Casacca contadino
+272	Casacca nano
+273	Casacca tuta
+274	Casacca judo
+275	Maglietta tennis
+276	Casacca baseball
+277	Maglietta basket
+278	Maglietta calcio
+279	Giacca ufficio
+280	Giacca semplice
+281	Giubbino rosso
+282	Giubbino blu avio
+283	Giacca smoking
+284	Casacca giappon.
+285	Casacca Hakama
+286	Casacca samurai
+287	Casacca mongolo
+288	Cas. guardia pal.
+289	Giacca alpinismo
+290	Cam. scacchi verdi
+291	Cam. stampa orma
+292	Giacca di lusso
+293	Giacca a righe
+294	Giacca formale
+295	Giacca da sera
+296	Camicia rossa
+297	Camicia tasca fiore
+298	Pullover animalier
+299	Cam. colletto giallo
+300	T-Shirt cintura
+301	Pullover pesante
+302	Gilè rosso
+303	Giacca doppiopetto
+304	Casacca kimono blu
+305	Camicia prisma
+306	Top denim rosso
+307	Giacca rossa bott.
+308	Pullover rombi
+309	Casacca rossa
+310	Cam. stampa fiori
+311	Cam. rosa semplice
+312	Camicia stella
+313	Cam. patch verde
+314	Cam. patch blu
+315	Maglia criss-cross
+316	Maglia baby rossa
+317	Camicia tasca fiori
+318	Cam. viola semplice
+319	Cam. diamante nera
+320	Casacca lana
+321	Casacca tigrata
+322	Camicia ideogramma
+323	Cam. numeri digit.
+324	Tunica con ruche
+325	Camicia runa magica
+326	Camicia sfum. rosa
+327	Camicia cacao
+328	Camicia bianca
+329	Camicia melone
+330	Camicia adulto
+331	Casacca marinara
+332	Camicia araba
+333	Camicia con nastri
+334	Camicia glamour
+335	Camicia marrone
+336	Camicia farfalla
+337	Camic. lana rosa
+338	Camicia sorella
+339	Casacca blu
+340	Toga greca
+341	Camicia sgargiante
+342	Cardigan nastri
+343	Casacca danza
+344	Giubbino nero
+345	Top blu prescolare
+346	Cam. giallo pastello
+347	Camicia cuore
+348	Tunica fiori pesca
+349	Parka crema
+350	Cam. lettera verde
+351	Camicia righe
+352	Cam. flanella chic
+353	Camicia Sol Levante
+354	Pullover vitamine
+355	Pullover pesca
+356	Giacca denim marr.
+357	Camicia fiamma nera
+358	Cam. teschio verde
+359	Camicia arancione
+360	Giubb. moto rosso
+361	Camicia nr. 7
+362	Cam. tinta a mano
+363	Piumino bianco
+364	Cam. pace arancio
+365	Camicia blu
+366	Camicia da donna
+367	Cam. patch rosa
+368	Cam. mimetica rosa
+369	Cam. bottoni gialla
+370	Giacca pelle nera
+371	Cam. Hawaii rossa
+372	Giacca kimono ros.
+373	Pant. unif. scuola
+374	Pant. sfumati
+375	Jeans strappati
+376	Pantaloni chino
+377	Pant. risvolto col.
+378	Pant. con risvolto
+379	Pantaloni cargo
+380	Pantaloni reggae
+381	Pantaloni con zip
+382	Jeans e catena
+383	Pant. scozzesi blu
+384	Pant. scozz. rossi
+385	Pant. teschio punk
+386	Pant. patchwork
+387	Pantaloni fiamma
+388	Pant. stampa fiori
+389	Jeans cuciture
+390	Pant. blazer
+391	Pant. gakuran
+392	Legging mago
+393	Leg. spirito arcano
+394	Pant. mimetici
+395	Pant. forze spec.
+396	Pant. moto
+397	Pant. pompiere
+398	Pant. automobilismo
+399	Pant. ufficiale
+400	Pant. rocker
+401	Pant. pigiama
+402	Pant. Prescolari
+403	Pant. uomo anziano
+404	Pant. giullare
+405	Pant. completo
+406	Pant. esploratore
+407	Pant. prigioniero
+408	Pant. robot

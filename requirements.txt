@@ -1,0 +1,6 @@
+pillow==12.3.0
+numpy==2.5.3
+opencv-python-headless==5.0.0.93
+onnxruntime==1.30.0
+ndspy==4.2.0
+capstone==5.0.9

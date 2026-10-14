@@ -1,0 +1,68 @@
+0	買いたいものを聞く<X1>	Chiedi cosa vuole comprare<X1>	21
+1	好きな仕事<X1>	Un lavoro che mi piaccia!	21
+2	明るくする<X1>	Cerco di restare allegra.	21
+3	知らない<X1>	Umm. È una novità per me!	21
+4	遊ぼう！<X1>	Certo, andiamo a giocare!	21
+5	何もないよ<X1>	No, non devo fare niente.	21
+6	深い人<X1>	Mi concentro su una cosa!	21
+7	かがいじゅぎょう<X1>	Lezione extracurriculare	21
+8	べつにいい<X1>	Non mi interessa granché.	21
+9	かべがみ・じゅうたん<X1>	Carta da parati e tappeti<X1>	21
+10	ナゾのなえをかう<X1>	Compra una piantina misteriosa <X1>	21
+11	ほかに 知りたいことでもあんのか？<X1>	C'è qualcos'altro che vuoi sapere?<X1>	21
+12	なんか 知りたいことでもあんのか？<X1>	Volevi chiedermi qualcosa?	21
+13	おみせのみため<X1>	Aspetto esterno del negozio<X1>	21
+14	トレンドについて<X1>	Informazioni sulle tendenze<X1>	21
+15	あら？<P>よかったね 今なら２つまで買えるみたいよ さあ どれを買っちゃう？<X1>	Oh? <P>, che fortuna: ora ne puoi comprare fino a 2! Allora, quale prendi?<X1>	21
+16	今なら２つまで買えるよ さあ どれにする？<X1>	Ora ne puoi comprare fino a 2. Allora, quale prendi?<X1>	21
+17	そうこのせつめい<X1>	Spiegazione del magazzino<X1>	21
+18	今週のテーマ<X1>	Tema di questa settimana<X1>	21
+19	来週のテーマ<X1>	Tema della prossima settimana<X1>	21
+20	せつめいをきかない<X1>	Non ascoltare la spiegazione<X1>	21
+21	おみせの２かい<X1>	Secondo piano del negozio<X1>	21
+22	ま どうせ また オレが勝つことになるけどな！<X1>	Davvero? Lo sai che perderai ancora, eh?	21
+23	へへん 今度こそ オレが 勝つけどなっ！<X1>	Eh eh! Stavolta vincerò io!	21
+24	歌をききたい<X1>	Vorrei ascoltare una canzone<X1>	21
+25	オマエ… ニンゲンか？<X1>	Sei una di quelle cose umane?	21
+26	オマエ また来ただか… やっぱり オイラにひどいことしに来たのか？<X1>	Che cosa vuoi adesso? Scommetto che sei ancora qui per farmi qualcosa di brutto...	21
+27	ニンゲンは<c5>学校</c>さ 行くべ？ <c5>学校</c>ってそんなに 楽しいところか？<X1><X2>	Gli umani vanno a [$0'5]scuola[$0'1], giusto? Ma la [$0'5]scuola[$0'1] è proprio così spassosa? 	21
+28	おいら <c5>学校</c>さ 行ってみてえ <X1>連れてってくれろ？<X2>	Voglio andare a [$0'5]scuola[$0'1]. [$22'4050'344]Mi ci porti?	21
+29	まず お前が歌い始めたら おれもえんそうを始める それでは さあ 歌ってくれ<X1>	Prima tu inizi a cantare, poi comincio a suonare anch'io. Allora, canta pure!<X1>	21
+30	お前 もしかして えんそうの練習に つきあってくれるのか？<X1>	Forse mi aiuterai davvero a fare pratica?<X1>	21
+31	<P> こいつの友だち作り てつだってくれるか？<X1>	<P>, mi aiuti a far fare amicizia a questo Dingo?<X1>	21
+32	ゆうしゅうな私は 話すときに気をつけること 何かある？<X1>	Sono un tipo in gamba: devo stare attento a qualcosa quando parlo?<X1>	21
+33	勝ち気な私は 話すときに気をつけること 何かある？<X1>	Sono un tipo grintoso: devo stare attento a qualcosa quando parlo?<X1>	21
+34	おとなしい私は 話すときに気をつけること 何かある？<X1>	Sono un tipo tranquillo: devo stare attento a qualcosa quando parlo?<X1>	21
+35	完ぺきしゅぎな私は 話すときに気をつけること 何かある？<X1>	Sono un tipo perfezionista: devo stare attento a qualcosa quando parlo?<X1>	21
+36	気まぐれな私は 話すときに気をつけること 何かある？<X1>	Sono un tipo lunatico: devo stare attento a qualcosa quando parlo?<X1>	21
+37	のんびりな私は 話すときに気をつけること 何かある？<X1>	Sono un tipo tranquillone: devo stare attento a qualcosa quando parlo?<X1>	21
+38	じゃ さっそく セッション スタートするわよっ？<X1>	Allora, facciamo partire subito la jam session?<X1>	21
+39	あなたも１つ マッチ… いらないかな…？ 1つ １００リッチ…なの<X1>	vuoi anche tu... un fiammifero...? Costa 100 Rich l'uno...<X1>	21
+40	あの よかったら… マッチ… いらないかな？ 1つ １００リッチ…なの<X1>	Ecco, se ti va... un fiammifero... non lo vuoi? Costa 100 Rich l'uno...<X1>	21
+41	いっちゃダメ！<X1>	Ti prego, non andartene!	21
+42	私を りゅうがくに つれて行ってほしい<X1>	Mi piacerebbe viaggiare all'estero con te.	21
+43	せっかくの気持ちだから 私もこたえてあげる もちろん いいよね？<X1>	Visto il gesto, rispondo anch'io. Naturalmente va bene, vero?<X1>	21
+44	そう<X1>	Già, direi proprio che è così.	21
+45	<P>くん！ 何をしているのです？ じゅぎょうを 聞いていましたか？<X1>	Giovane [$500]! Che stai facendo? Stavi seguendo la lezione?	21
+46	せんせいの話を 聞いていましたか？<X1>	Ascoltavi quello che dicevo?<X1>	21
+47	ＰＭ０時から ＰＭ１２時 どちらの時間に じゅぎょうを うけるのだ？<X1>	dalle 12 alle 24? In quale fascia vuoi seguire la lezione?<X1>	21
+48	ＰＭ０時から ＰＭ１２時 どっちの時間に じゅぎょうを うけるのよぅ？<X1>	dalle 12 alle 24? In quale fascia vuoi seguire la lezione?<X1>	21
+49	<P>くん お店について つぎのうち 正しいのはどれですか？<X1>	Quale di queste affermazioni è vera riguardo ai negozi?	21
+50	いつでも買える<X1>	Si può sempre acquistare	21
+51	学校は どのしゅるいの まほう語にあると 思いますか？<X1>	a quale di queste appartiene la parola Scuola?	21
+52	<P>くん つえまほうは <c4>まほう</c>というまほう語を どこにいれるのでしたかな？<X1>	Per una magia con bacchetta in cui si usano parole magiche, quando bisogna dire [$0'4]Magia[$0'1]?	21
+53	<P>くん おまじないは <c4>おまじない</c>というまほう文字を どこにいれるのでしたかな？<X1>	Quando bisogna pronunciare la linguistica magica [$0'4]incantesimo[$0'1]?	21
+54	<P>くん 次のうち いくらやっても 星が ふえないのは どれですか？<X1>	Quale di queste azioni non fa guadagnare mai delle stelle?	21
+55	<c5>はじまりとおわりのとびら</c>で できない事は どれですか？<X1>	ma per quale di queste cose non può essere usato?	21
+56	つうしん<X1>	Nintendo Wi-Fi Connection	21
+57	<P>くん <c4>曲をおぼえる</c>には どうすればよいですか？<X1>	Per [$0'4]memorizzare una canzone[$0'1], cosa bisogna fare?	21
+58	すぐにおぼえる<X1>	Impararla immediatamente	21
+59	２にちに１かい<X1>	Una volta ogni due giorni<X1>	21
+60	あたしの話 もちろん ちゃんと 聞いてたよな？<X1>	Mi stavi ascoltando, vero?<X1>	21
+61	まほうご はなす<X1>	Linguistica magica parlare<X1>	21
+62	ムシがうごかない<X1>	Insetti non possono muov.	21
+63	１回だけする<X1>	Lanciarlo solo una volta	21
+64	もう <c5>学生りょう</c>を 見てまわるのはいいのか？<X1>	Hai già finito di girare per il <c5>dormitorio</c>?<X1>	21
+65	がんばる<X1>	È difficile, ma devo farlo per i miei ammiratori!	21
+66	店を 持つとして そなたは 何を 売りたいのですかな？<X1>	Se avessi un negozio, che cosa vorresti vendere?<X1>	21
+67	<c5>はじまりとおわりのとびら</c>で このせかいとふしぎ時間をつなぐ やくめをお願いします<X1>	collegare il nostro mondo con l'Ora del mistero al [$0'5]Cancello dell'Inizio e della Fine[$0'1].	21

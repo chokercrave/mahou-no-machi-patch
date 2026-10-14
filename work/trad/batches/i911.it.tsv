@@ -1,0 +1,694 @@
+0	Terra smossa
+1	Aiuola del negozio
+2	Banca Tirol
+3	Casa sull'albero
+4	Albero vuoto
+5	Muro bazar 1
+6	Casa infestata
+7	Tomba profonda A
+8	Tomba profonda B
+9	Tomba profonda C
+10	Tomba profonda D
+11	Ombra di Nessie
+12	Libro proibito
+13	Fungo magico
+14	Amaca di nuvole
+15	Sedia tè (dentro)
+16	Sedia tè (fuori)
+17	Festa della mamma
+18	Casa sull'albero
+19	Albero secco
+20	Tartufo nero
+21	Semi di rosa
+22	Piantina di mora
+23	Biscotto della gioia
+24	Biscotto d'amore
+25	Biscotto della pace
+26	Carota e peperone
+27	Anpan aperto
+28	Carne da tagliare
+29	Stampo per torte
+30	Vassoio per fritti
+31	Piatto per bistecca
+32	Piatto cinese
+33	Ciotola per fiori
+34	Oggetto per profumo
+35	Becher per tè ai fiori
+36	Copri nastro
+37	Solo padella
+38	Linea cartam. camicia
+39	Linea cartam. cappotto
+40	Linea cartam. abito
+41	Linea cartam. gonna
+42	Becher penna magica
+43	Penna magica
+44	Impasto e ciotola
+45	Disco di pasta
+46	Torta scenica
+47	Torta magica scenica
+48	Piatti e due banchi
+49	Ciotola per hamburger
+50	Pentola per stufati
+51	Brodo (zuppa di pasta)
+52	Brodo rosso
+53	Brodo marrone
+54	Torta cruda
+55	Fritto crudo
+56	Muffin crudo
+57	Gratin crudo
+58	Pizza cruda
+59	Pancake bruciato
+60	Biscotto crudo
+61	Carne cruda
+62	Anpan aperto
+63	Crêpe perfetta
+64	Crêpe storta
+65	Topping donburi
+66	Penna magica
+67	Tè magico 1
+68	Tè magico 2
+69	Torta magica
+70	Pasto del re (autunno)
+71	Pasto del re (inverno)
+72	Linea cartam. canotta
+73	Osso di Pochi
+74	Osso da pirata
+75	Osso fossile
+76	Scopa a fiore
+77	Scopa renna
+78	Scopa a cuore
+79	Scopa fenice
+80	Scopa pavone
+81	Scopa drago
+82	Scopa dango
+83	Chiave porta magica
+84	CD di consegna
+85	Chiave porta d'oro
+86	Borsa di studio
+87	Mestolo per stufati
+88	Stampo per gelato
+89	Timbro della gioia
+90	Timbro amore e pace
+91	Torta da infornare
+92	Gratin da infornare
+93	Pizza da infornare
+94	Muffin da infornare
+95	Falce della morte
+96	Mano magica
+97	Felpa a cuori
+98	Bomber verde
+99	Maglia punk
+100	Giacca da saldi
+101	Giacca da clown
+102	Giacca da signore
+103	Giacca da nano
+104	Giacca della tuta
+105	Giacca da judo
+106	Camicia rosa elegante
+107	Giacca retrò
+108	Giacca verde
+109	Gilet in maglia
+110	Abito cinese
+111	Camicia a pois blu
+112	Felpa color crema
+113	Camicia a pois cool
+114	Gilet a righe
+115	Top da cameriera tè
+116	Top fast food
+117	Canotta bohémien
+118	Felpa a strati
+119	Maglione fiocco maxi
+120	Maglia con sciarpa
+121	Balze leopardate rosa
+122	Divisa da cuoco
+123	Divisa da cuoca
+124	Set da barista
+125	Set da barista donna
+126	Set cameriera tè
+127	Set grande magazzino
+128	Set commesso
+129	Set commessa
+130	Kimono rosa
+131	Camicia a quadri melone
+132	Abito da monaco
+133	Camicia a righe rosse
+134	Camicia fascia verde
+135	Kimono da bambino
+136	Giacca personale 1
+137	Top con fiocchetti
+138	Maglia bianca scritte
+139	Felpa con orecchie
+140	Felpa gialla con logo
+141	Felpa blu con logo
+142	Felpa menta
+143	Piumino Amekaji
+144	Camicia a quadri vivace
+145	Piumino a quadri bianco
+146	Cardigan nordico
+147	Canotta arancione
+148	Camicia rosa spento
+149	Camicia a strati numeri
+150	Giacca base teschio
+151	Giacca intelligente
+152	Gilet Napoleone
+153	Felpa rock viola
+154	Top rock blu
+155	Maglia arancione
+156	Hanten rosso caldo
+157	Camicia patch e balze
+158	Felpa rossa
+159	Tunica di lino
+160	Cardigan scritte grigio
+161	Cardigan scritte ciano
+162	Top rock carino
+163	Camicetta a quadri
+164	Camicetta quadri larghi
+165	Maglia raglan ciano
+166	Maglia raglan rosa
+167	Felpa a righe ciano
+168	Canotta adulta ciano
+169	Canotta adulta gialla
+170	Camicia stola bianca
+171	Maglia baseball grigia
+172	Maglia baseball rosa
+173	Felpa marinara rossa
+174	Giacca a vento gialla
+175	Tank logo arancione
+176	Camicia a strati rossa
+177	Western blu
+178	Western arancione
+179	Amekaji bianco
+180	Amekaji rosso
+181	Canotta fiocco ciano
+182	Canotta fiocco bianca
+183	Maglia a coste marrone
+184	Maglia spalle scoperte
+185	Tunica ragno
+186	Gilet con toppe
+187	Piumino metallico
+188	Giacca fluo
+189	Camicia righe e stelle
+190	Camicia verde scuro
+191	Camicia righe verdi
+192	Camicia metallica liscia
+193	Camicia righe e cuori
+194	Camicia metallica lucida
+195	Camicia pois tasche
+196	Camicia pantera verde
+197	Camicia collo a balze
+198	Camicia gingham blu
+199	Cardigan dolce
+200	Maglia corta a strati
+201	Felpa colorata
+202	Felpa arricciata
+203	Tunica di pizzo
+204	Maglia rosa a diagonali
+205	Bomber rosa
+206	Tuta pastello
+207	Gilet a strati
+208	Scaldacollo con fiocco
+209	Bolero rose bianche
+210	Gilet teschio
+211	Tank effetto roccia
+212	Giacca da gangster
+213	Canotta righe grigia
+214	Canotta sciarpa balze
+215	Jeans verdi
+216	Pantaloni da mago
+217	Pantaloni fast food
+218	Pantaloni argyle rossi
+219	Pantaloni neve blu
+220	Pantaloni neve rossi
+221	Pantaloni righe verdi
+222	Jeans skinny rosa
+223	Jeans skinny bianchi
+224	Pantaloni cropped grigi
+225	Pantaloni cargo verdi
+226	Skinny viola
+227	Senza gonna
+228	Gonna di jeans
+229	Gonna con ruches
+230	Gonna con nastri
+231	Gonna leopardata
+232	Gonna reggae
+233	Gonna del blazer
+234	Gonna visual kei
+235	Hakama con stemma
+236	Gonna cameriera tè
+237	Gonna commessa
+238	Gonna balze bianca
+239	Gonna personale 1
+240	Tubino rosa
+241	Gonna pois gialli
+242	Gonna con pizzo
+243	Plissé con bottoni
+244	Gonna leopardo bianco
+245	Tubino a righe
+246	Gonna fuoco fatuo
+247	Gonna arricciata
+248	Gonna rock carina
+249	Gonna fantasia verde
+250	Gonna uniforme colori
+251	Gonna fiorellini rosa
+252	Gonna fiorellini blu
+253	Gonna fiori bianca
+254	Gonna balze verde
+255	Gonna balze viola
+256	Gonna plissé nera
+257	Gonna plissé bianca
+258	Gonna di camoscio
+259	Jeans balze gialli
+260	Gonna di lana bianca
+261	Etnica arancione
+262	Etnica verde
+263	Gonna color bolle
+264	Tulle bianco
+265	Plissé raffinata
+266	Gonna con bordo
+267	Gonna in felpa
+268	Gonna a portafoglio
+269	Abito in felpa
+270	Abito bianco raffinato
+271	Mantello da re
+272	Divisa da cuoco
+273	Divisa da cuoca
+274	Smoking da sposo
+275	Idol luccicante
+276	Girl rocker
+277	Gilet con pompon
+278	Abito in maglia
+279	Abito alle fragole
+280	Abito girly
+281	Giacca da chef
+282	Abito personale M
+283	Abito personale F
+284	Abito bicolore rosa
+285	Tunica a quadri
+286	Abito con balze
+287	Abito goth rosa
+288	Tunica arancione
+289	Abito maglia bianco
+290	Abito romantico
+291	Abito quadri con balze
+292	Abito di camoscio
+293	Abito maglia pompon
+294	Cappotto cintura maxi
+295	Abito grigio sobrio
+296	Trench vivace
+297	Giacca neve blu
+298	Giacca neve rossa
+299	Parka da panchina
+300	Abito bicolore boa
+301	Abito visual kei
+302	Impermeabile rana
+303	Abito a strati
+304	Abito da streghetta
+305	Abito pizzo a strati
+306	Abito notte stellata
+307	Abito sirena rosa
+308	Abito chiffon rosa
+309	Abito country doll
+310	Abito da strega rosso
+311	Abito da strega verde
+312	Abito Miracle Girl
+313	Abito marinaro
+314	Abito pompon e balze
+315	Felpa gialla smanicata
+316	Abito con cardigan
+317	Manto magico stelle
+318	Abito di Natale
+319	Cardigan maglia pompon
+320	Abito a quadri
+321	Abito camicia verde
+322	Abito bicolore blu
+323	Abito bicolore rosa
+324	Felpa viola
+325	Felpa arancione
+326	Abito raso giallo
+327	Abito righe ciano
+328	Abito righe rosa
+329	Bretelle nere
+330	Abito rosa scritte
+331	Felpa lunga
+332	Felpa lunga grigia
+333	Qipao ciano
+334	Camicetta chiffon
+335	Peacoat bianco
+336	Peacoat blu
+337	Montone marrone
+338	Montone bianco
+339	Abito color misto
+340	Abito cut&sew nero
+341	Abito cut&sew rosa
+342	Abito camicia bianco
+343	Abito classico marrone
+344	Abito formale rosa
+345	Abito formale rosso
+346	Giacca lunga con toppe
+347	Abito cargo
+348	Camicia etnica bianca
+349	Abito spalle scoperte
+350	Trench rosa chiaro
+351	Cappotto pelo rosso
+352	Abito con lacci
+353	Abito a caramelle
+354	Abito stampa gelato
+355	Abito patchwork
+356	Abito maglia ampia
+357	Duffle coat rosso
+358	Abito rosso colletto
+359	Piumino chic
+360	Abito tank arricciato
+361	Abito polo rosa
+362	Abito camicia a frac
+363	Manto magico sobrio
+364	Manto magico cuori
+365	Manto magico fiori
+366	Cappotto teschio
+367	Abito di foglie
+368	Hakama retrò
+369	Abito stampa cinese
+370	Abito a rombi
+371	Abito crème caramel
+372	Abito ragnatela
+373	Stivali da mago
+374	Sneaker alla moda
+375	Sneaker arcobaleno
+376	Tabi da kimono
+377	Tabi da operaio
+378	Scarpette da punta
+379	Scarpe con balze
+380	Scarpe celesti
+381	Scarpe punk
+382	Sneaker bicolore
+383	Scarpe gomma forate
+384	Scarpe zucca
+385	Ballerine rosa
+386	Scarpe di pelo
+387	Scarpe ciano shock
+388	Scarpe ragno rosse
+389	Scarpe pelle borchiate
+390	Pumps rosa shock
+391	Ballerine verdi
+392	Ballerine grigie
+393	Pumps ciano
+394	Pumps verdi shock
+395	Pumps viola
+396	Stivali con pizzo
+397	Scarponcini viola
+398	Scarponcini arancio
+399	Stivali con frange
+400	Stivali arricciati
+401	Scarpe da basket rosa
+402	Stivali lunghi lacci
+403	Suola in gomma bianca
+404	Sandali lacci bianchi
+405	Fiocco rosso
+406	Spilla a fiore
+407	Cuffietta di pizzo
+408	Corona del re
+409	Berretto blu
+410	Cappello cuoco piccolo
+411	Cappello cuoco grande
+412	Bandana occidentale
+413	Elmo samurai
+414	Bandana giapponese
+415	Copricapo zucca
+416	Basco rosso
+417	Fermaglio a rosa
+418	Fiocco rosa
+419	Fiocco giallo
+420	Fiocco verde
+421	Fiocco viola
+422	Fiocco nero
+423	Fiocco righe viola
+424	Fiocco righe rosse
+425	Fiocco con fiorellini
+426	Fascia bohémien
+427	Fiocco marinaro
+428	Fiocco rosa shock
+429	Fiocco rosa soffice
+430	Fiocco ciano soffice
+431	Fiocco Union Jack
+432	Bandana pop
+433	Credenza del tè
+434	Letto futon
+435	Letto austero
+436	Comò austero
+437	Sedia austera
+438	Sedia di legno
+439	Stufa con forno
+440	Tavolino vip
+441	Letto cinese
+442	Sedia cinese
+443	Letto di dolci
+444	Divano di dolci
+445	Letto gotico
+446	Sedia gotica
+447	Letto marino
+448	Sedia marina
+449	Separé di pizzo
+450	Espositore fioraio
+451	Tavola da surf
+452	Regalo vistoso
+453	Armadio rosa
+454	Cassa delle monete
+455	Trono antico
+456	Lavagna del menu
+457	Bar delle bevande
+458	Bar delle insalate
+459	Moto americana
+460	Vecchio pozzo
+461	Fuoco fatuo
+462	Set bistecca
+463	Set Yum Cha
+464	Arco di rose
+465	Piatto vuoto
+466	Set barbecue
+467	Idolo sinistro
+468	Hoya a cuore
+469	Bonsai di acero
+470	Bonsai di susino
+471	TV sottile nera
+472	TV sottile rosa
+473	Stereo a cuore
+474	Stereo a stella
+475	Parfait alla panna
+476	Torta carina
+477	Tavolo giardino pensile
+478	Sedia leopardata
+479	Sedia family
+480	Sedia della fortezza
+481	Sedia steampunk
+482	Tavolo fast food
+483	Wagyu alla griglia
+484	Punch di frutta
+485	Doni dell'autunno
+486	Armadio gyaru
+487	Specchio gyaru
+488	Kotatsu gyaru
+489	Lampada gyaru
+490	Sedia diavoletto
+491	Sedia di gemme
+492	Letto di gemme
+493	Tavolino di gemme
+494	Set da tè arabo
+495	Esaurito (piccolo)
+496	Esaurito (medio)
+497	Esaurito (grande)
+498	Letto alla moda
+499	Cassa antica
+500	Poster su cavalletto
+501	Cartello di debutto
+502	Cartello White Day
+503	Cartello d'autunno
+504	Scaldavivande
+505	Decorazione gelati
+506	Bosco di bambù
+507	Banco regali
+508	Gemma grezza
+509	Tavolino a cuore
+510	Chaise longue pizzo
+511	Teca bianca
+512	Teca marrone
+513	Teca grigia
+514	Base manichino bianca
+515	Set borse carine
+516	Set borse fresche
+517	Cassa in legno
+518	Cassa bianca
+519	Pentola anni '60
+520	Statua tiki
+521	Chaise longue rose
+522	Tenda di perle
+523	Sedia da parrucchiere
+524	Chaise longue pois
+525	Lista d'attesa
+526	Espositore topping
+527	Set acqua e limone
+528	Articoli cinesi
+529	Albero della felicità
+530	Parete di legno
+531	Parete a fiori
+532	Parete disco
+533	Parete araba
+534	Parete di marmo
+535	Parete di neve
+536	Parete chic
+537	Parete a cuori
+538	Parete a pois
+539	Parete fioraio
+540	Parete wagashi
+541	Parete diavoletto
+542	Parete sirena
+543	Parete del castello
+544	Parete fragola
+545	Parete rosso-bianca
+546	Parete sconti
+547	Parete locanda
+548	Parete da cucito
+549	Parete gelato
+550	Parete a fiocchi
+551	Carpa
+552	Pesce gatto
+553	Pesce angelo
+554	Trota masu
+555	Pesce scatola
+556	Pesce vipera
+557	Pesce faccia
+558	Riccio di mare
+559	Farfalla azzurra
+560	Cicala bruna
+561	Fuoco fatuo
+562	Noodle udon
+563	Noodle soba
+564	Noodle cinesi
+565	Uovo sbattuto
+566	Lievito chimico
+567	Salsa per pizza
+568	Salsa scura
+569	Maestro della festa
+570	Maestro del trend
+571	Maestro idol
+572	Dolci dolcissimi
+573	Torta magica scenica
+574	Pie da infornare
+575	Pesce leggendario
+576	Tonkatsu da friggere
+577	Tofu fritto
+578	Patata dolce
+579	Ingredienti mattoni
+580	Lastra per gemme
+581	Carta per gemme
+582	Ingredienti moderni
+583	Pentola per katsudon
+584	Gamberi fritti scena 1
+585	Gamberi fritti scena 2
+586	Tessuto neve
+587	Tessuto lamé
+588	Tessuto pois pastello
+589	Tessuto quadri rossi
+590	Tessuto fiori grandi
+591	Tessuto fiocco rosso
+592	Tessuto rosa soffice
+593	Tessuto lecca lecca
+594	Tessuto raso liscio
+595	Tessuto righe viola
+596	Tessuto croce bianca
+597	Tessuto maglia rosa
+598	Catenina misteriosa
+599	Catena cuore oro
+600	Catena cuore argento
+601	Catena stella oro
+602	Catena stella argento
+603	Catena foglia oro
+604	Catena foglia argento
+605	Catena principessa oro
+606	Taglio grazioso
+607	Taglio rotondo
+608	Teiera di vetro
+609	Nastro carino
+610	Nastro elegante
+611	Nastro semplice
+612	Nastro sontuoso
+613	Menta secca
+614	Trofeo del brand
+615	Ornamento cuore oro
+616	Ornamento stella oro
+617	Ornamento foglia oro
+618	Bracciale trasparente
+619	Pie quadrata
+620	Pie di carne
+621	Zuppa gialla
+622	Zuppa rossa
+623	Zuppa bianca
+624	Curry medio
+625	Ramen di soia piccolo
+626	Ramen giallo piccolo
+627	Udon grande
+628	Udon al curry grande
+629	Ramen di soia grande
+630	Soba grande
+631	Parfait blu
+632	Ramen al miso grande
+633	Ramen al sale grande
+634	Ramen al miso piccolo
+635	Ramen al miso grande
+636	Pane farcito
+637	Tempura di gamberi
+638	Pasta in bianco
+639	Pasta al pomodoro
+640	Pasta al ragù
+641	Pasta al pesto
+642	Riso fritto
+643	Zuppa di pasta bianca
+644	Soba fritto
+645	Soba al curry grande
+646	Zuppa di pasta rossa
+647	Zuppa di pasta gialla
+648	Zuppa pasta marrone
+649	Gelato bianco-bianco
+650	Gelato bianco-rosso
+651	Gelato bianco-blu
+652	Gelato bianco-marrone
+653	Gelato bianco-verde
+654	Gelato rosso-bianco
+655	Gelato rosso-rosso
+656	Gelato rosso-blu
+657	Gelato rosso-marrone
+658	Gelato rosso-verde
+659	Gelato blu-bianco
+660	Gelato blu-rosso
+661	Gelato blu-blu
+662	Gelato blu-marrone
+663	Gelato blu-verde
+664	Gelato marrone-bianco
+665	Gelato marrone-rosso
+666	Gelato marrone-blu
+667	Gelato marrone x2
+668	Gelato marrone-verde
+669	Gelato verde-bianco
+670	Gelato verde-rosso
+671	Gelato verde-blu
+672	Gelato verde-marrone
+673	Gelato verde-verde
+674	Penna magica scenica
+675	Orecchini trasparenti
+676	Senza occhiali
+677	Visore da robot
+678	Calzamaglia a pois
+679	Leggings righe viola
+680	Leggings righe gialle
+681	Leggings righe larghe
+682	Leggings pizzo rossi
+683	Stivali di pelo neri
+684	Abito shortcake
+685	Camicetta monocromo
+686	Gonna lamé ciano
+687	Abito fiori gialli
+688	Abito principessa balze
+689	Haori fiocco rosa
+690	Argyle rosa
+691	Mobile maialino
+692	Espositore CD top
+693	Nastro del sushi

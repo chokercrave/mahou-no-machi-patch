@@ -1,0 +1,600 @@
+3000	Pall. caffè
+3001	Pall. verde
+3002	Mix mattoni
+3003	Lastra gemme
+3004	Utens. gemme
+3005	Carta gemme
+3006	Luce gemme
+3007	Parf. rosso
+3008	Parf. blu
+3009	Parf. caffè
+3010	Parf. verde
+3011	Mix carino
+3012	Mix moderno
+3013	Mix magia
+3014	Pent. katsu
+3015	Katsudon fx
+3016	Fx gamberi 1
+3017	Fx gamberi 2
+3018	Mod. camicia
+3019	Mod. canotta
+3020	Mod. giacca
+3021	Mod. pantal.
+3022	Mod. gonna
+3023	Mod. vestito
+3024	Mod. abito
+3025	Mod. cappot.
+3026	Mod. tunica
+3027	Mod. leggins
+3028	Tess. frag.
+3029	Ciliegie
+3030	Tess. righe
+3031	Marinière
+3032	Tess. giapp.
+3033	Tess. fiocco
+3034	Tess. denim
+3035	Tess. neve
+3036	Tess. pizzo
+3037	Gatto nero
+3038	Pelle nera
+3039	Tess. lamé
+3040	Tess. trif.
+3041	Mimetico
+3042	Tirolese
+3043	Leopardato
+3044	Tess. cuori
+3045	Tess. reale
+3046	Tess. volant
+3047	Pois rossi
+3048	Pois blu
+3049	Pois pastel
+3050	Quadri rossi
+3051	Quadri blu
+3052	Vichy
+3053	Quadroni
+3054	Tess. bianco
+3055	Tess. nero
+3056	Azzurro
+3057	Tess. margh.
+3058	Fiori grandi
+3059	Fiori eleg.
+3060	Bordeaux
+3061	Fiocco rosso
+3062	Rosa shock
+3063	Rosa soffice
+3064	Pelliccia
+3065	Logo righe
+3066	Ciano soft
+3067	Lecca lecca
+3068	Raso liscio
+3069	Righe viola
+3070	Tess. scuola
+3071	Nobile
+3072	Aloha
+3073	Tess. oro
+3074	Margherite
+3075	Tess. sport
+3076	Foglie
+3077	Verde vivo
+3078	Pizzo nero
+3079	Croce bianca
+3080	Zebrato
+3081	Militare
+3082	Argento
+3083	Formale
+3084	Zucche
+3085	Boemo
+3086	Maglia rosa
+3087	Girls Rock
+3088	Funghi
+3089	Catena rara
+3090	Piuma rara
+3091	Scat. antica
+3092	Lamp. antica
+3093	Cuore oro
+3094	Cuore arg.
+3095	Stella oro
+3096	Stella arg.
+3097	Foglia oro
+3098	Foglia arg.
+3099	Princ. oro
+3100	Princ. arg.
+3101	Cat cuor oro
+3102	Cat cuor arg
+3103	Cat stel oro
+3104	Cat stel arg
+3105	Cat fogl oro
+3106	Cat fogl arg
+3107	Cat prin oro
+3108	Cat prin arg
+3109	Taglio cute
+3110	Taglio dia.
+3111	Taglio tondo
+3112	Brillante
+3113	Boccetta
+3114	Teiera vetro
+3115	Nastro cute
+3116	Nastro figo
+3117	Nastro base
+3118	Nastro lusso
+3119	Gelsomino
+3120	Bergamotto
+3121	Camomilla
+3122	Garofano
+3123	Lavanda
+3124	Zafferano
+3125	Menta
+3126	Gels. secco
+3127	Berg. secco
+3128	Camom. secco
+3129	Garof. secco
+3130	Lavan. secca
+3131	Zaff. secco
+3132	Menta secca
+3133	Trofeo prim.
+3134	Trofeo est.
+3135	Trofeo aut.
+3136	Trofeo inv.
+3137	Trofeo brand
+3138	Dec cuor oro
+3139	Dec cuor arg
+3140	Dec stel oro
+3141	Dec stel arg
+3142	Dec fogl oro
+3143	Dec fogl arg
+3144	Dec prin oro
+3145	Dec prin arg
+3146	Leop. cuori
+3147	Fulmini
+3148	Union Jack
+3149	Tricolore
+3150	Tess. logo
+3151	Mod. fiocco
+3152	Bracciale PC
+3153	Collana PC
+3154	Camicia
+3155	Canotta
+3156	Giacca
+3157	Pantaloni
+3158	Gonna
+3159	Vestito
+3160	Abito
+3161	Cappotto
+3162	Tunica
+3163	Leggings
+3164	Bouq. carino
+3165	Bouq. figo
+3166	Bouq. base
+3167	Bouq. lusso
+3168	Muffin
+3169	Torta mini
+3170	Pie tondo
+3171	Pie quadrato
+3172	Torta mele
+3173	Pie di carne
+3174	Pancake
+3175	Zuppa gialla
+3176	Zuppa rossa
+3177	Zuppa bianca
+3178	Stuf. bianco
+3179	Stuf. bruno
+3180	Gratin
+3181	Curry
+3182	Hayashi
+3183	Curry grande
+3184	Hayashi gr.
+3185	Katsudon
+3186	Oyakodon
+3187	Gyudon
+3188	Udon
+3189	Udon curry
+3190	Ramen shoyu
+3191	Ramen giallo
+3192	Soba
+3193	Udon grande
+3194	Udon curr gr
+3195	Shoyu grande
+3196	Giallo gran.
+3197	Soba grande
+3198	Parf. bianco
+3199	Parf. rosso
+3200	Parf. blu
+3201	Parf. caffè
+3202	Parf. verde
+3203	Ramen miso
+3204	Miso grande
+3205	Ramen sale
+3206	Sale grande
+3207	Miso piccolo
+3208	Miso grande
+3209	Fritto S
+3210	Fritto M
+3211	Fritto L
+3212	Tempura S
+3213	Tempura M
+3214	Tempura L
+3215	Karaage
+3216	Donut
+3217	Gamb. fritto
+3218	Katsu
+3219	Pane condito
+3220	Ebi tempura
+3221	Pane anko
+3222	Pane cioc.
+3223	Pane crema
+3224	Pane caram.
+3225	Pizza
+3226	Pasta bianca
+3227	Pasta rossa
+3228	Pasta bruna
+3229	Pasta verde
+3230	Bistecca
+3231	Hamburger
+3232	Yakisoba
+3233	Riso fritto
+3234	Crepe
+3235	Donburi S
+3236	Donburi L
+3237	Pane panna
+3238	Pane jam
+3239	Yakiudon
+3240	Brodo bianco
+3241	Soba fritto
+3242	Arancino
+3243	Menchikatsu
+3244	Doria
+3245	Soba curry
+3246	Soba curry G
+3247	Brodo rosso
+3248	Brodo giallo
+3249	Brodo bruno
+3250	Tiara CC oro
+3251	Tiara CC arg
+3252	Tiara CS oro
+3253	Tiara CS arg
+3254	Tiara CF oro
+3255	Tiara CF arg
+3256	Tiara CP oro
+3257	Tiara CP arg
+3258	Tiara DC oro
+3259	Tiara DC arg
+3260	Tiara DS oro
+3261	Tiara DS arg
+3262	Tiara DF oro
+3263	Tiara DF arg
+3264	Tiara DP oro
+3265	Tiara DP arg
+3266	Gelato bi-bi
+3267	Gelato bi-ro
+3268	Gelato bi-bl
+3269	Gelato bi-ma
+3270	Gelato bi-ve
+3271	Gelato ro-bi
+3272	Gelato ro-ro
+3273	Gelato ro-bl
+3274	Gelato ro-ma
+3275	Gelato ro-ve
+3276	Gelato bl-bi
+3277	Gelato bl-ro
+3278	Gelato bl-bl
+3279	Gelato bl-ma
+3280	Gelato bl-ve
+3281	Gelato ma-bi
+3282	Gelato ma-ro
+3283	Gelato ma-bl
+3284	Gelato ma-ma
+3285	Gelato ma-ve
+3286	Gelato ve-bi
+3287	Gelato ve-ro
+3288	Gelato ve-bl
+3289	Gelato ve-ma
+3290	Gelato ve-ve
+3291	Coll. CC oro
+3292	Coll. CC arg
+3293	Coll. CS oro
+3294	Coll. CS arg
+3295	Coll. CF oro
+3296	Coll. CF arg
+3297	Coll. CP oro
+3298	Coll. CP arg
+3299	Coll. DC oro
+3300	Coll. DC arg
+3301	Coll. DS oro
+3302	Coll. DS arg
+3303	Coll. DF oro
+3304	Coll. DF arg
+3305	Coll. DP oro
+3306	Coll. DP arg
+3307	Torta magica
+3308	Bisc. felice
+3309	Pie magico
+3310	Bouq. magico
+3311	Tè magico
+3312	Coll. magica
+3313	Bisc. amore
+3314	Bisc. pace
+3315	Prof. dolce
+3316	Prof. fresco
+3317	Prof. calmo
+3318	Prof. forte
+3319	Lamp. magica
+3320	Scrigno mag.
+3321	Penna magica
+3322	Orec. CC oro
+3323	Orec. CC arg
+3324	Orec. CS oro
+3325	Orec. CS arg
+3326	Orec. CF oro
+3327	Orec. CF arg
+3328	Orec. CP oro
+3329	Orec. CP arg
+3330	Orec. DC oro
+3331	Orec. DC arg
+3332	Orec. DS oro
+3333	Orec. DS arg
+3334	Orec. DF oro
+3335	Orec. DF arg
+3336	Orec. DP oro
+3337	Orec. DP arg
+3338	Orecchini PC
+3339	Cappello nov
+3340	Cappello 1*
+3341	Cappello 2*
+3342	Cappello 3*
+3343	Cappello 4*
+3344	Gran mago
+3345	Cilindro
+3346	Cap. carino
+3347	Cap. cattivo
+3348	Mask teschio
+3349	No occhiali
+3350	Sole wild
+3351	Occ. signora
+3352	Occ. neri
+3353	Masch. ballo
+3354	Occ. spessi
+3355	Occhi lucidi
+3356	Occhi fuoco
+3357	Occ. robot
+3358	Dama arancio
+3359	Dama azzurro
+3360	Dama nero
+3361	Dama verde
+3362	Dama blu
+3363	Occ. viola
+3364	Occ. rossi
+3365	Occ. marroni
+3366	Occ. grigi
+3367	Occ. gialli
+3368	Wellington
+3369	Sole lusso
+3370	Monocolo
+3371	Sole sport
+3372	Semirim ros.
+3373	Sole cuore
+3374	Spats pois
+3375	Legg. righe
+3376	Calze aranc.
+3377	Legg. madras
+3378	Righe rosa
+3379	Righe viola
+3380	Righe gialle
+3381	Righe larghe
+3382	Pizzo nero
+3383	Pizzo rosso
+3384	Legg. coste
+3385	Legg. nordic
+3386	Legg. gotico
+3387	Legg. lamé
+3388	Scaldagambe
+3389	Stivali pelo
+3390	Stiv. lucidi
+3391	Strega bian.
+3392	Strega blu
+3393	Canot. balze
+3394	Denim+pois
+3395	Abito torta
+3396	Divisa blu
+3397	Camicia mono
+3398	Gonna ciano
+3399	Mini neon
+3400	Gonna mono
+3401	Abito fiori
+3402	Abito balze
+3403	Haori fiocco
+3404	Argyle rosa
+3405	Lamp. budino
+3406	Mobile porco
+3407	Rack CD top
+3408	Div. pallone
+3409	Div. lucido
+3410	Div. orsone
+3411	Estr. sushi
+3412	Tav. coccin.
+3413	Nastro sushi
+3414	Muro tende
+3415	Pav. chiaro
+3416	Katsu
+3417	Katsu XL
+3418	Burger
+3419	Burger L
+3420	Karaage
+3421	Karaage+
+3422	Fritto
+3423	Frit
+3424	Fritto L
+3425	Gambero
+3426	Kakiage
+3427	Tempura
+3428	Kakiage+
+3429	Ebiten
+3430	Ebi
+3431	Carnone
+3432	Wurstel
+3433	Frank x2
+3434	Ham x2
+3435	Conchigl
+3436	Capasant
+3437	Uovo
+3438	Uovone
+3439	Natto
+3440	Viscoso
+3441	Mochi
+3442	Mochi x2
+3443	Kimchi
+3444	Kimchi+
+3445	Aburaage
+3446	Tofu fr.
+3447	Tofu x2
+3448	Ogura
+3449	Anko
+3450	Anko+
+3451	Cioccol.
+3452	Cioc.
+3453	Cioc. x2
+3454	Caram.
+3455	Cara
+3456	Custard
+3457	Custar
+3458	Cust
+3459	Crema
+3460	Panna
+3461	Crem
+3462	Cremoso
+3463	Jam
+3464	Jam XL
+3465	Cacio
+3466	Cacio x2
+3467	Choco
+3468	Patate
+3469	Jaga
+3470	Pote
+3471	Patatine
+3472	Cipolla
+3473	Cipol
+3474	Carot
+3475	Carota
+3476	Spinaci
+3477	Spin
+3478	Zucca
+3479	Zucc
+3480	Mais
+3481	Mai
+3482	Broccoli
+3483	Broc
+3484	Lattu
+3485	Lattuga
+3486	Cavol
+3487	Cavolo
+3488	Peper
+3489	Pep
+3490	Peperone
+3491	Pomo
+3492	Pomodori
+3493	Batata
+3494	Bat
+3495	Batate
+3496	Porro
+3497	Porro+
+3498	Ban
+3499	Banane
+3500	Kiw
+3501	Kiwi x2
+3502	Ananas
+3503	Pin
+3504	Mel
+3505	Meloni
+3506	Aran
+3507	Ara
+3508	Arancia
+3509	Mela
+3510	Mel
+3511	Mele
+3512	Marron
+3513	Mar. x2
+3514	Lim
+3515	Limoni
+3516	Ume+
+3517	Pesca
+3518	Pes
+3519	Pesche
+3520	Uva
+3521	Grape
+3522	Pere
+3523	Cili
+3524	Cil
+3525	Ciliegie
+3526	Black
+3527	Bacca
+3528	Mirtillo
+3529	Cran
+3530	Lampone
+3531	Fragola
+3532	Matsutak
+3533	Mat
+3534	Tartufo
+3535	Tar
+3536	Imota
+3537	Imo
+3538	Piedblu
+3539	Pie
+3540	Funghi
+3541	Shii
+3542	Fukuro
+3543	Fuku
+3544	Champign
+3545	Champ
+3546	Cham
+3547	Porcini
+3548	Porc
+3549	Spugnola
+3550	Spug
+3551	Velata
+3552	Vel
+3553	Seta
+3554	Muto
+3555	Mu
+3556	Mazza
+3557	Maz
+3558	Cap
+3559	Gallinac
+3560	Gall
+3561	Cardonc
+3562	Card
+3563	Ramaria
+3564	Ram
+3565	Pet
+3566	Tra
+3567	Enoki
+3568	Eno
+3569	Nam
+3570	Nameko
+3571	Hanabi
+3572	Bira
+3573	Maitake
+3574	Mai
+3575	Pleurot
+3576	Pleu
+3577	Carassi
+3578	Carpe
+3579	Cobite
+3580	Cob
+3581	Cobiti
+3582	Koi
+3583	Silu
+3584	Siluri
+3585	Eperl
+3586	Epe
+3587	Eperlani
+3588	Ayu+
+3589	Salmone
+3590	Salm
+3591	Bluegill
+3592	Gill
+3593	Bass
+3594	Bas
+3595	Squalo
+3596	Guppy
+3597	Gup
+3598	Guppy+
+3599	Tetra

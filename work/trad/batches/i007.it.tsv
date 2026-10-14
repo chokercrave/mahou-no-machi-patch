@@ -1,0 +1,600 @@
+4200	Capp Ruche
+4201	Capp PoisR
+4202	Capp PoisB
+4203	Capp Pois
+4204	Capp QuadR
+4205	Capp Vichy
+4206	Capp Maxiq
+4207	Capp Bianc
+4208	Capp Nero
+4209	Capp Azzur
+4210	Capp Daisy
+4211	Capp Fiori
+4212	Capp Sobri
+4213	Capp Bordò
+4214	Capp FiocR
+4215	Capp Rosa
+4216	Capp Sakur
+4217	Capp Pelo
+4218	Capp Logo
+4219	Capp Cian
+4220	Capp Lolli
+4221	Capp Raso
+4222	Capp Viola
+4223	Capp Scuol
+4224	Capp Nobil
+4225	Capp Aloha
+4226	Capp Oro
+4227	Capp Marg
+4228	Capp Sport
+4229	Capp Fogli
+4230	Capp Verde
+4231	Capp PizzN
+4232	Capp Croci
+4233	Capp Zebra
+4234	Capp Milit
+4235	Capp Argen
+4236	Capp Forma
+4237	Capp Zucca
+4238	Capp Boho
+4239	Capp LanaR
+4240	Capp Rock
+4241	Capp Fungo
+4242	Capp CuLeo
+4243	Capp Fulmi
+4244	Capp UK
+4245	Capp Trico
+4246	Capp Testo
+4247	Tun Frag
+4248	Tun Cili
+4249	Tun Righe
+4250	Tun Marin
+4251	Tun Wafu
+4252	Tun Fiocc
+4253	Tun Jeans
+4254	Tun Neve
+4255	Tun Pizzo
+4256	Tun Gatto
+4257	Tun Pelle
+4258	Tun Lamé
+4259	Tun Trifo
+4260	Tun Camo
+4261	Tun Tirol
+4262	Tun Leop
+4263	Tun Cuore
+4264	Tun Princ
+4265	Tun Ruche
+4266	Tun PoisR
+4267	Tun PoisB
+4268	Tun Pois
+4269	Tun QuadR
+4270	Tun QuadB
+4271	Tun Vichy
+4272	Tun Maxiq
+4273	Tun Bianca
+4274	Tun Nera
+4275	Tun Azzur
+4276	Tun Daisy
+4277	Tun Fiori
+4278	Tun Sobri
+4279	Tun Bordò
+4280	Tun FiocR
+4281	Tun Rosa
+4282	Tun Sakur
+4283	Tun Pelo
+4284	Tun Logo
+4285	Tun Cian
+4286	Tun Lolli
+4287	Tun Raso
+4288	Tun Viola
+4289	Tun Scuol
+4290	Tun Nobil
+4291	Tun Aloha
+4292	Tun Oro
+4293	Tun Marg
+4294	Tun Sport
+4295	Tun Fogli
+4296	Tun Verde
+4297	Tun PizzN
+4298	Tun Croci
+4299	Tun Zebra
+4300	Tun Milit
+4301	Tun Argen
+4302	Tun Forma
+4303	Tun Zucca
+4304	Tun Boho
+4305	Tun LanaR
+4306	Tun Rock
+4307	Tun Fungo
+4308	Tun CuLeo
+4309	Tun Fulmi
+4310	Tun UK
+4311	Tun Trico
+4312	Tun Testo
+4313	Legg Frag
+4314	Legg Cili
+4315	Legg Righe
+4316	Legg Wafu
+4317	Legg Fiocc
+4318	Legg Jeans
+4319	Legg Neve
+4320	Legg Pizzo
+4321	Legg Gatto
+4322	Legg Pelle
+4323	Legg Trifo
+4324	Legg Camo
+4325	Legg Tirol
+4326	Legg Leop
+4327	Legg Cuore
+4328	Legg Princ
+4329	Legg Ruche
+4330	Legg PoisR
+4331	Legg PoisB
+4332	Legg Pois
+4333	Legg QuadR
+4334	Legg QuadB
+4335	Legg Vichy
+4336	Legg Maxiq
+4337	Legg Bianc
+4338	Legg Nero
+4339	Legg Azzur
+4340	Legg Daisy
+4341	Legg Fiori
+4342	Legg Sobri
+4343	Legg Bordò
+4344	Legg FiocR
+4345	Legg Rosa
+4346	Legg Sakur
+4347	Legg Pelo
+4348	Legg Logo
+4349	Legg Cian
+4350	Legg Lolli
+4351	Legg Raso
+4352	Legg Viola
+4353	Legg Scuol
+4354	Legg Nobil
+4355	Legg Aloha
+4356	Legg Oro
+4357	Legg Marg
+4358	Legg Sport
+4359	Legg Fogli
+4360	Legg Verde
+4361	Legg Croci
+4362	Legg Zebra
+4363	Legg Milit
+4364	Legg Argen
+4365	Legg Forma
+4366	Legg Zucca
+4367	Legg Boho
+4368	Legg LanaR
+4369	Legg Rock
+4370	Legg Fungo
+4371	Legg CuLeo
+4372	Legg Fulmi
+4373	Legg UK
+4374	Legg Trico
+4375	Legg Testo
+4376	Rosa
+4377	Rosa
+4378	Tulip
+4379	Tu
+4380	Tulip.
+4381	Marg
+4382	Mar
+4383	Marghe
+4384	Mughet
+4385	Mug
+4386	Mughet
+4387	Cuore
+4388	Cuore
+4389	Skull
+4390	Skull
+4391	Gemma
+4392	Gem
+4393	Gemma
+4394	Dolce
+4395	Gelsom
+4396	Gelsom
+4397	Bergam
+4398	Berg
+4399	Camom
+4400	Cam
+4401	Camomi
+4402	Garofa
+4403	Garofa
+4404	Lavand
+4405	Lav
+4406	Lavand
+4407	Zaff
+4408	Zaffer
+4409	Menta
+4410	Tiara cuor
+4411	Tiara stel
+4412	Tiara fogl
+4413	Tiara prin
+4414	Coll cuore
+4415	Collana stellata
+4416	Coll fogl
+4417	Coll princ
+4418	Amuleto
+4419	Portagioie
+4420	Penna burl
+4421	Orecc cuor
+4422	Orecc star
+4423	Orecc fogl
+4424	Orecc prin
+4425	Mazzo
+4426	Bouquet
+4427	Tè calmo
+4428	Prof dolce
+4429	Prof fresc
+4430	Prof calmo
+4431	Prof ammal
+4432	Muffin
+4433	Torta
+4434	Dolce
+4435	Shortcake
+4436	Torta mele
+4437	Pie carne
+4438	Zuppa
+4439	Stufato
+4440	Stuf crema
+4441	Stuf manzo
+4442	Gratin
+4443	Curry
+4444	Hayashi
+4445	Donburi
+4446	Oyakodon
+4447	Gyudon
+4448	Katsudon
+4449	Udon
+4450	Udon curry
+4451	Soba
+4452	Soba curry
+4453	Ramen sale
+4454	Ramen miso
+4455	Gelato
+4456	Gel vanig
+4457	Parfait
+4458	Pancake
+4459	Tonkatsu
+4460	Pane
+4461	Anpan
+4462	Pane cioc
+4463	Pane crem
+4464	Pane marm
+4465	Carbonara
+4466	Napolitan
+4467	Yakisoba
+4468	Riso fritt
+4469	Crepe
+4470	Udon fritt
+4471	Arrosto
+4472	Polpettone
+4473	Past brodo
+4474	Soba fritt
+4475	Cro riso
+4476	Menchi
+4477	Dolce brus
+4478	Dolce crud
+4479	Cibo gelat
+4480	Troppo cot
+4481	Torta amor
+4482	Pie sorpre
+4483	Bisc felic
+4484	Bisc amore
+4485	Bisc amici
+4486	Big Mac
+4487	Zuppa mist
+4488	Saluto
+4489	Magia
+4490	Incanto
+4491	Sì
+4492	No
+4493	Sorriso
+4494	Tristezza
+4495	Rabbia
+4496	Sonno
+4497	Voglio
+4498	!
+4499	?
+4500	Amore
+4501	Mistero
+4502	Grande
+4503	Piccolo
+4504	Veloce
+4505	Lento
+4506	1
+4507	2
+4508	3
+4509	4
+4510	5
+4511	6
+4512	7
+4513	8
+4514	9
+4515	0
+4516	Io
+4517	Tu
+4518	Tutti
+4519	Amico
+4520	Ragazzo
+4521	Ragazza
+4522	Amato
+4523	Ospite
+4524	Chi?
+4525	Preside
+4526	Ricardo
+4527	Druidon
+4528	Miss Kiki
+4529	Tomba
+4530	Picard
+4531	Daisy
+4532	Bibi
+4533	Lory
+4534	Tome
+4535	Mercy
+4536	George
+4537	Bunya
+4538	Tetsu
+4539	Higemaru
+4540	Mach
+4541	Re
+4542	Ministro
+4543	Melissa
+4544	Retake
+4545	Fare
+4546	Insieme
+4547	Venire
+4548	Giocare
+4549	Prendere
+4550	Posare
+4551	Usare
+4552	Dare
+4553	Ricevere
+4554	Scambio
+4555	Parlare
+4556	Suonare
+4557	Sfida
+4558	Dormire
+4559	Aspettare
+4560	Incontro
+4561	Radunarsi
+4562	Guardare
+4563	Ascoltare
+4564	Cercare
+4565	Visita
+4566	Esplorare
+4567	Appuntam
+4568	Imparare
+4569	Interrare
+4570	Scherzo
+4571	Camminare
+4572	Correre
+4573	Tornare
+4574	Oggetto
+4575	Soldi
+4576	Mobili
+4577	Vestiti
+4578	Insetto
+4579	Pesce
+4580	Strumento
+4581	Bacche
+4582	Fiore
+4583	Messaggio
+4584	Bastone
+4585	Fungo
+4586	Pasto
+4587	Annaffia
+4588	Rete
+4589	Cappello
+4590	Parrucca
+4591	Piantina
+4592	Seme
+4593	Medicina
+4594	Lezione
+4595	Esame
+4596	Parole
+4597	Albero
+4598	Costellaz
+4599	Oroscopo
+4600	Catalogo
+4601	Erba
+4602	Sempre
+4603	Porta
+4604	Molti
+4605	Scuola
+4606	Casa
+4607	Collegio
+4608	Stanza
+4609	Serra
+4610	Dove?
+4611	Negozi
+4612	Bosco
+4613	Grotta
+4614	Spiaggia
+4615	Capo Amor
+4616	Isola
+4617	Casa fant
+4618	Torre
+4619	Fiume
+4620	Cascata
+4621	Stagno
+4622	Posta
+4623	Banca
+4624	Chiosco
+4625	Parco
+4626	Halogen
+4627	Flower D.
+4628	Smile Bi.
+4629	Mon Paris
+4630	Kameya
+4631	Bar Famosi
+4632	Aula
+4633	Sala prof
+4634	Bagno
+4635	Auditorio
+4636	Sala macc
+4637	Archivio
+4638	Specola
+4639	Su
+4640	Giù
+4641	Sinistra
+4642	Destra
+4643	Città
+4644	Mattina
+4645	Giorno
+4646	Notte
+4647	Tempo
+4648	Adesso
+4649	Prossima
+4650	Quando
+4651	Domani
+4652	Domenica
+4653	Lunedì
+4654	Martedì
+4655	Mercoledì
+4656	Giovedì
+4657	Venerdì
+4658	Sabato
+4659	Cielo
+4660	Stella
+4661	Sole
+4662	Tesoro
+4663	Voce
+4664	Segreto
+4665	Dolce
+4666	Piccante
+4667	Salato
+4668	Aspro
+4669	Semplice
+4670	Figo
+4671	Carino
+4672	Lussuoso
+4673	Genzo
+4674	Hassan
+4675	Cait Sith
+4676	Ex pirata
+4677	Gatto lav
+4678	Cliente
+4679	Cantare
+4680	Essere
+4681	Pubblicit
+4682	Cucinare
+4683	Accessori
+4684	Moda
+4685	Abracadab
+4686	Castello
+4687	Cucina
+4688	Atelier
+4689	Negozio
+4690	Cute
+4691	Pop
+4692	Rock
+4693	Sportivo
+4694	Cool
+4695	Naturale
+4696	Standard
+4697	Elegante
+4698	Divisa
+4699	Modella
+4700	Princess
+4701	Jackie
+4702	Vicky
+4703	Scatto
+4704	Shooting
+4705	Cambiarsi
+4706	Look
+4707	Rivista
+4708	Sfilata
+4709	Marchio
+4710	Eventi
+4711	Studio
+4712	Hachi
+4713	Richard
+4714	Rodolfo
+4715	Cocoa
+4716	Chico
+4717	Zamasu
+4718	Yuko
+4719	Silvia
+4720	Suzu
+4721	Mon Petit
+4722	Ussu
+4723	Nyaros
+4724	Kumacchi
+4725	Panta
+4726	Bebe
+4727	Inaba
+4728	Pamela
+4729	Yosako
+4730	Bill
+4731	Cornetto
+4732	Kankuu
+4733	Havana
+4734	Swahili
+4735	Kurtan
+4736	Jinbei
+4737	Uluru
+4738	Django
+4739	Strato
+4740	Saki
+4741	Buffa
+4742	Sleepy
+4743	Akemi
+4744	Rum
+4745	Chutaro
+4746	Mugri
+4747	Kirari
+4748	Bonaparte
+4749	Sammy
+4750	Mooni
+4751	Aura
+4752	Humphrey
+4753	Raiden
+4754	Jenne
+4755	Wyatt
+4756	Troy
+4757	Ouka
+4758	Rinko
+4759	Harasho
+4760	Metabon
+4761	Tamami
+4762	Monchi
+4763	Kikki
+4764	Osono
+4765	Yamada
+4766	Guchii
+4767	Hoppe
+4768	Babe
+4769	Cocotte
+4770	Sorbetto
+4771	Totto
+4772	Seiya
+4773	Sanderson
+4774	Puipui
+4775	Hiroshi
+4776	Matthew
+4777	Tenten
+4778	Happy
+4779	Travolta
+4780	Janet
+4781	Meg
+4782	Seibei
+4783	Keita
+4784	Porolin
+4785	Sonya
+4786	Viscus
+4787	Barbara
+4788	Hanako
+4789	Raffle
+4790	Chammy
+4791	Prince
+4792	Kaguya
+4793	Calcio
+4794	Rotten
+4795	Kyonkyon
+4796	Grace
+4797	Chojiro
+4798	Fuji
+4799	Momoppe

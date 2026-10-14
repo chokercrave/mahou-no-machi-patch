@@ -1,0 +1,4 @@
+# Testi con fine riga LF per tutti, su ogni sistema / LF line endings for everyone, on every system
+* text=auto eol=lf
+*.ttf binary
+*.png binary

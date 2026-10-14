@@ -1,0 +1,31 @@
+0	Le lezioni si tengono a ogni ora, di giorno e di notte. Se vuoi cambiare il turno degli insegnanti...
+1	chiedilo al <c3>Prof. Olmo</c>, nell'<c5>Aula docenti</c>.
+2	Allora, <P>: ora le lezioni ci sono a ogni ora, ma puoi scegliere il turno degli insegnanti.
+3	Preferisci il turno delle 8 o quello delle 12?<X1>
+4	Turno delle 8<X1>
+5	Turno delle 12<X1>
+6	Bene: turno delle 8. Le lezioni ci sono a ogni ora!
+7	Bene: turno delle 12. Le lezioni ci sono a ogni ora!
+8	Come? Vuoi cambiare il turno degli insegnanti?
+9	Allora, <P>: le lezioni si tengono a ogni ora, ma il giro degli insegnanti può partire dalle 8 o dalle 12.
+10	Quale turno preferisci?
+11	Turno delle 8<X1>
+12	Turno delle 12<X1>
+13	Allora metto il turno delle 8.
+14	Allora metto il turno delle 12.
+15	Allora, <P>: ora le lezioni ci sono a ogni ora, ma puoi scegliere il turno degli insegnanti.
+16	Preferisci il turno delle 8 o quello delle 12?<X1>
+17	Benissimo, turno delle 8! Le lezioni ci sono a ogni ora.
+18	Benissimo, turno delle 12! Le lezioni ci sono a ogni ora.
+19	C'è una cosa da sapere: in questa città i negozi sono sempre aperti,
+20	giorno e notte! Potete andarci a qualsiasi ora.
+21	Sempre aperti<X1>
+22	Chiusi la sera<X1>
+23	Oh! Esatto! I negozi sono sempre aperti, a qualsiasi ora.
+24	Quella giusta è "Sempre aperti".
+25	Potete fare acquisti quando volete, di giorno e di notte.
+26	Per finire: i negozi sono sempre aperti,
+27	giorno e notte, quindi passate quando volete.
+28	Sempre aperti<X1>
+29	Chiusi la sera<X1>
+30	Potete andarci a qualsiasi ora, di giorno e di notte.
