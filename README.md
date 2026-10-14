@@ -78,7 +78,9 @@ Correzioni e miglioramenti sono benvenuti come **pull request**: come prepararle
 
 ## Licenza
 
-Il codice e i testi di questo repository sono distribuiti con licenza **MIT** (vedi [LICENSE](LICENSE)).
+Il codice e i testi di questo repository sono distribuiti con licenza **MIT** (vedi [LICENSE](LICENSE)). La licenza non
+riguarda il gioco e i suoi file, che appartengono a Konami, né i font in `tools/fonts`, che hanno le proprie licenze
+libere (vedi `tools/fonts/LICENZE_FONT.txt`).
 *Tongari Boushi* è un marchio di Konami; Nintendo 3DS è un marchio di Nintendo. Questo è un progetto amatoriale non
 ufficiale, senza scopo di lucro e non affiliato con Konami o Nintendo.
 
@@ -152,6 +154,8 @@ Fixes and improvements are welcome as **pull requests**: how to prepare and test
 
 ### License
 
-The code and texts in this repository are released under the **MIT** license (see [LICENSE](LICENSE)).
+The code and texts in this repository are released under the **MIT** license (see [LICENSE](LICENSE)). The license
+does not cover the game and its files, which belong to Konami, nor the fonts in `tools/fonts`, which keep their own free
+licenses (see `tools/fonts/LICENZE_FONT.txt`).
 *Tongari Boushi* is a trademark of Konami; Nintendo 3DS is a trademark of Nintendo. This is an unofficial,
 non-commercial fan project, not affiliated with Konami or Nintendo.
