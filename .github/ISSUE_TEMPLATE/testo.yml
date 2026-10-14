@@ -1,0 +1,28 @@
+name: Correzione di un testo / Text correction
+description: Errore di battitura, frase poco chiara, giapponese rimasto / typo, unclear line, leftover Japanese
+labels: [testo]
+body:
+  - type: textarea
+    id: attuale
+    attributes:
+      label: Testo attuale / Current text
+      description: Copia il testo come appare nel gioco. / Copy the text as it appears in game.
+    validations:
+      required: true
+  - type: textarea
+    id: proposta
+    attributes:
+      label: Proposta / Suggestion
+      description: Come dovrebbe essere, e perché. / What it should be, and why.
+    validations:
+      required: true
+  - type: input
+    id: dove
+    attributes:
+      label: Dove / Where
+      description: Chi parla o quale menu. / Who is speaking or which menu.
+  - type: textarea
+    id: foto
+    attributes:
+      label: Foto dello schermo / Screenshot
+      description: Facoltativa ma utile. / Optional but helpful.

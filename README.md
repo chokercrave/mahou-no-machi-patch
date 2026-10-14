@@ -62,10 +62,13 @@ py scripts/prepare.py "rom.cci" "aggiornamento_1.1.cia"
 py scripts/build_all.py
 ```
 
-## Segnalare un problema
+## Segnalare un problema o contribuire
 
 Apri una segnalazione nella pagina **[Issues](../../issues)**: descrivi dove ti trovavi nel gioco, se giochi su
 Azahar o su 3DS, e allega una foto dello schermo se puoi.
+
+Correzioni e miglioramenti sono benvenuti come **pull request**: come prepararle e provarle è spiegato in
+[CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Ringraziamenti
 
@@ -133,10 +136,13 @@ The first launch after installing is slower: wait without turning the console of
 
 The translation style guide and the technical notes are in Italian (`docs/traduzione.md`, `docs/note_tecniche.md`).
 
-### Reporting a problem
+### Reporting a problem or contributing
 
 Open an issue on the **[Issues](../../issues)** page: say where you were in the game, whether you play on Azahar or
 3DS, and attach a screenshot if you can.
+
+Fixes and improvements are welcome as **pull requests**: how to prepare and test them is explained in
+[CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Credits
 

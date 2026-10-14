@@ -1,0 +1,39 @@
+name: Problema nel gioco / Game bug
+description: Crash, blocco, testo tagliato, grafica sbagliata / crash, freeze, cut text, wrong graphics
+labels: [bug]
+body:
+  - type: textarea
+    id: cosa
+    attributes:
+      label: Cosa succede / What happens
+      description: Descrivi il problema e cosa ti aspettavi. / Describe the problem and what you expected.
+    validations:
+      required: true
+  - type: textarea
+    id: dove
+    attributes:
+      label: Dove / Where
+      description: Luogo, personaggio o menu, e cosa stavi facendo. / Place, character or menu, and what you were doing.
+    validations:
+      required: true
+  - type: dropdown
+    id: piattaforma
+    attributes:
+      label: Piattaforma / Platform
+      options:
+        - Azahar
+        - 3DS con Luma3DS / 3DS with Luma3DS
+        - Altro / Other
+    validations:
+      required: true
+  - type: input
+    id: versione
+    attributes:
+      label: Versione della patch / Patch version
+      description: È scritta in basso nella schermata del titolo. / It's shown at the bottom of the title screen.
+      placeholder: v1.9
+  - type: textarea
+    id: foto
+    attributes:
+      label: Foto dello schermo / Screenshot
+      description: Trascina qui l'immagine. Per un crash su 3DS, allega il file .dmp da SD:/luma/dumps/arm11/. / Drag the image here. For a 3DS crash, attach the .dmp from SD:/luma/dumps/arm11/.
