@@ -134,9 +134,10 @@ The first launch after installing is slower: wait without turning the console of
 | [Features](docs/en/features.md) | Players: every new feature and how to use it |
 | [Building](docs/en/building.md) | Rebuilding the patch from your own copy of the game |
 | [Architecture](docs/en/architecture.md) | Modifying the patch: build, formats, rules for real hardware |
+| [Technical notes](docs/en/technical_notes.md) | Addresses, variables and game structures found during the work |
 | [Changelog](CHANGELOG.md) | What changed in each version |
 
-The translation style guide and the technical notes are in Italian (`docs/traduzione.md`, `docs/note_tecniche.md`).
+The translation style guide is in Italian (`docs/traduzione.md`).
 
 ### Reporting a problem or contributing
 

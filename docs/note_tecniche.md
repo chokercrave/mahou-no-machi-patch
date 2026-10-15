@@ -1,5 +1,7 @@
 # Atlante del gioco (reverse engineering)
 
+*[English](en/technical_notes.md)*
+
 Mappa di come funziona Tongari Boushi to Mahou no Machi (3DS, code.bin a 0x100000) per progettare le QoL partendo
 dal codice, non dai test. Fonte principale: C decompilato da Ghidra (non incluso: si ottiene analizzando il proprio code.bin) in `work/re/decomp/` (`code_XXXX.c` = funzioni
 da 0xXXXX0000, `functions.tsv` = indice con chiamanti/chiamate). Il gioco in Azahar serve solo a confermare.
