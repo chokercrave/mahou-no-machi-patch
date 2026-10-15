@@ -1,5 +1,8 @@
 blank_issues_enabled: true
 contact_links:
+  - name: Patch online (Azahar e 3DS) / Patch online (Azahar and 3DS)
+    url: https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds
+    about: Patcher nel browser sul sito di Darkened Forest. / In-browser patchers on Darkened Forest's site.
   - name: Come installare la patch / How to install
     url: https://github.com/chokercrave/mahou-no-machi-patch#installazione
     about: Istruzioni di installazione nel README. / Installation steps in the README.

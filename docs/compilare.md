@@ -159,6 +159,12 @@ estrae la cartella `luma` per la 3DS. Prima di creare lo zip, `make_release.py` 
 utente: lancia il `.bat` su una copia e controlla che la ROM e la cartella `luma` ottenute siano identiche, byte per
 byte, alla build. La ROM italiana usata per la prova viene poi cancellata.
 
+`make_release.py` prepara anche, in `release/sito/`, i file per i **patcher online** del [sito di Darkened Forest](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds):
+la stessa xdelta col nome per il sito (`tongari-boushi-ita-vX.Y.xdelta`, patcher per Azahar) e `luma_vX.Y.json`, i
+dati con cui il browser ricava la cartella `luma` dalla ROM patchata (patcher per 3DS: elenco dei file con CRC32 e
+le modifiche all'exheader, nessun file del gioco; vedi `scripts/luma_web.py`). La xdelta è senza compressione
+secondaria (`-S none`), perché il patcher nel browser (RomPatcher.js) non la legge.
+
 ## Ricompilare dopo una modifica
 
 `build_all.py` accetta due opzioni per non rifare tutto:

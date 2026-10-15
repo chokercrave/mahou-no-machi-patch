@@ -9,6 +9,8 @@ emulatore (Azahar) e su 3DS con Luma3DS.
 Il repository contiene **gli strumenti e i testi** della traduzione, non il gioco: nessun file di Nintendo o Konami è
 incluso. Per giocare serve la propria copia del gioco.
 
+> **▶ [Applica la patch online](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds)**, direttamente nel browser: c'è il patcher per **Azahar** e il patcher per **3DS** (Luma3DS). Niente da installare, la ROM resta sul tuo computer.
+
 ## Cosa contiene (rispetto al gioco originale)
 
 - **Tutto in italiano:** dialoghi, menu, oggetti, nomi, insegne dei negozi, lavagne delle lezioni, la rivista
@@ -29,9 +31,18 @@ Come funziona ogni cosa, e come si usa in partita: **[docs/funzionalita.md](docs
 
 ## Installazione
 
-**Il modo più semplice:** applica la patch direttamente nel browser, nella [pagina della patch sul sito di Darkened Forest](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds). Scegli la ROM giapponese decrittata e poi **Azahar** (ottieni la ROM in italiano) oppure **3DS (Luma3DS)** (ottieni uno zip con la cartella `luma` da copiare sulla scheda SD). Tutto avviene sul tuo computer: la ROM non viene caricata da nessuna parte.
+### Online, nel browser (consigliato)
 
-**Senza browser (Windows):** scarica l'ultima versione dalla pagina **[Releases](../../releases)** ed estrai lo zip.
+Apri la **[pagina della patch sul sito di Darkened Forest](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds)**, scegli la ROM giapponese **decrittata** (`.cci` o `.3ds`) e il tuo sistema:
+
+- **Patcher per Azahar** (*Azahar emulator*): ottieni `Tongari Boushi ITA vX.Y.3ds`, da aprire con Azahar.
+- **Patcher per 3DS** (*3DS (Luma3DS)*): ottieni `Tongari Boushi ITA vX.Y - 3DS luma.zip`. Apri lo zip e copia la cartella `luma` nella radice della scheda SD (vedi [Sulla 3DS](#sulla-3ds)).
+
+Tutto avviene sul tuo computer: la ROM non viene caricata da nessuna parte.
+
+### Offline, con Windows
+
+Scarica l'ultima versione dalla pagina **[Releases](../../releases)** ed estrai lo zip.
 
 1. Metti nella cartella estratta la ROM giapponese **decrittata** del gioco (`.cci` o `.3ds`), accanto ad
    `Applica patch.bat`.
@@ -39,7 +50,9 @@ Come funziona ogni cosa, e come si usa in partita: **[docs/funzionalita.md](docs
    - `Tongari Boushi ITA vX.Y.3ds`, la ROM in italiano da aprire con **Azahar**;
    - la cartella `luma`, per la **3DS con Luma3DS**.
 
-**Sulla 3DS:** se hai una versione precedente cancella `SD:/luma/titles/00040000000B4A00`, poi copia la cartella
+### Sulla 3DS
+
+Se hai una versione precedente cancella `SD:/luma/titles/00040000000B4A00`, poi copia la cartella
 `luma` nella radice della scheda SD. Tieni premuto SELECT all'accensione e attiva *Enable game patching*. Funziona con
 la cartuccia e con il gioco installato.
 
@@ -97,6 +110,8 @@ Luma3DS.
 This repository contains **the tools and the texts** of the translation, not the game: no Nintendo or Konami files are
 included. You need your own copy of the game.
 
+> **▶ [Patch online](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds)**, right in your browser: there is a patcher for **Azahar** and a patcher for **3DS** (Luma3DS). Nothing to install, and your ROM stays on your computer.
+
 ### What it includes (compared to the original game)
 
 - **Everything in Italian:** dialogue, menus, items, names, shop signs, lesson blackboards, the *Spell & Spill*
@@ -116,16 +131,27 @@ How every feature works and how to use it in game: **[docs/en/features.md](docs/
 
 ### Installation
 
-**The easiest way:** patch your ROM right in your browser, on the [patch page of Darkened Forest's site](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds). Choose your decrypted Japanese ROM, then **Azahar** (you get the Italian ROM) or **3DS (Luma3DS)** (you get a zip with the `luma` folder to copy to the SD card). Everything runs on your computer: the ROM is not uploaded anywhere.
+#### Online, in your browser (recommended)
 
-**Without a browser (Windows):** download the latest version from the **[Releases](../../releases)** page and extract the zip.
+Open the **[patch page on Darkened Forest's site](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds)**, choose your **decrypted** Japanese ROM (`.cci` or `.3ds`) and your system:
+
+- **Azahar patcher** (*Azahar emulator*): you get `Tongari Boushi ITA vX.Y.3ds`, to open with Azahar.
+- **3DS patcher** (*3DS (Luma3DS)*): you get `Tongari Boushi ITA vX.Y - 3DS luma.zip`. Open the zip and copy the `luma` folder to the root of the SD card (see [On 3DS](#on-3ds)).
+
+Everything runs on your computer: the ROM is not uploaded anywhere.
+
+#### Offline, on Windows
+
+Download the latest version from the **[Releases](../../releases)** page and extract the zip.
 
 1. Put your **decrypted** Japanese ROM (`.cci` or `.3ds`) in the extracted folder, next to `Applica patch.bat`.
 2. Run `Applica patch.bat`. It creates:
    - `Tongari Boushi ITA vX.Y.3ds`, the Italian ROM to open with **Azahar**;
    - the `luma` folder, for **3DS with Luma3DS**.
 
-**On 3DS:** if you have a previous version delete `SD:/luma/titles/00040000000B4A00`, then copy the `luma` folder to
+#### On 3DS
+
+If you have a previous version delete `SD:/luma/titles/00040000000B4A00`, then copy the `luma` folder to
 the root of the SD card. Hold SELECT at boot and enable *Enable game patching*. It works with the cartridge and with the
 installed game.
 

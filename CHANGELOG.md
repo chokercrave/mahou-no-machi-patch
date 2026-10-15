@@ -29,6 +29,7 @@ Rispetto al gioco originale:
 - Una sola patch per il gioco base Ver.1.0 e per l'aggiornamento Ver.1.1.
 - Emulatore Azahar e 3DS con Luma3DS; salvataggi compatibili con il gioco originale.
 - Il pacchetto non contiene file del gioco: `Applica patch.bat` crea la ROM e la cartella per la 3DS dalla tua ROM.
+- Patch online nel browser, sul [sito di Darkened Forest](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds): patcher per Azahar (ROM) e per 3DS (cartella `luma`).
 
 ---
 
@@ -56,3 +57,4 @@ Compared to the original game:
 - A single patch for the base game Ver.1.0 and the Ver.1.1 update.
 - Azahar emulator and 3DS with Luma3DS; saves compatible with the original game.
 - The package contains no game files: `Applica patch.bat` builds the ROM and the 3DS folder from your own ROM.
+- Online patching in the browser, on [Darkened Forest's site](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds): a patcher for Azahar (ROM) and for 3DS (`luma` folder).

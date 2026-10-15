@@ -158,6 +158,12 @@ the `luma` folder for 3DS from it. Before zipping, `make_release.py` tests the p
 the `.bat` on a copy and checks that the resulting ROM and `luma` folder are byte-identical to the build. The Italian
 ROM used for the test is then deleted.
 
+`make_release.py` also prepares, in `release/sito/`, the files for the **online patchers** on [Darkened Forest's site](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds):
+the same xdelta under the site's file name (`tongari-boushi-ita-vX.Y.xdelta`, Azahar patcher) and `luma_vX.Y.json`,
+the data the browser uses to build the `luma` folder from the patched ROM (3DS patcher: file list with CRC32 and the
+exheader changes, no game files; see `scripts/luma_web.py`). The xdelta has no secondary compression (`-S none`),
+because the in-browser patcher (RomPatcher.js) can't read it.
+
 ## Rebuilding after a change
 
 `build_all.py` takes two options to avoid redoing everything:
