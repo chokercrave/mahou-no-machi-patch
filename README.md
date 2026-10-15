@@ -29,9 +29,9 @@ Come funziona ogni cosa, e come si usa in partita: **[docs/funzionalita.md](docs
 
 ## Installazione
 
-**Solo per Azahar, il modo più semplice:** applica la patch direttamente nel browser, nella [pagina della patch sul sito di Darkened Forest](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds). Scegli la ROM giapponese decrittata e ottieni la ROM in italiano; tutto avviene sul tuo computer, la ROM non viene caricata da nessuna parte.
+**Il modo più semplice:** applica la patch direttamente nel browser, nella [pagina della patch sul sito di Darkened Forest](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds). Scegli la ROM giapponese decrittata e poi **Azahar** (ottieni la ROM in italiano) oppure **3DS (Luma3DS)** (ottieni uno zip con la cartella `luma` da copiare sulla scheda SD). Tutto avviene sul tuo computer: la ROM non viene caricata da nessuna parte.
 
-**Per la 3DS (o per avere tutto insieme):** scarica l'ultima versione dalla pagina **[Releases](../../releases)** ed estrai lo zip.
+**Senza browser (Windows):** scarica l'ultima versione dalla pagina **[Releases](../../releases)** ed estrai lo zip.
 
 1. Metti nella cartella estratta la ROM giapponese **decrittata** del gioco (`.cci` o `.3ds`), accanto ad
    `Applica patch.bat`.
@@ -116,9 +116,9 @@ How every feature works and how to use it in game: **[docs/en/features.md](docs/
 
 ### Installation
 
-**Azahar only, the easiest way:** patch your ROM right in your browser, on the [patch page of Darkened Forest's site](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds). Choose your decrypted Japanese ROM and get the Italian one back; everything runs on your computer and the ROM is not uploaded anywhere.
+**The easiest way:** patch your ROM right in your browser, on the [patch page of Darkened Forest's site](https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds). Choose your decrypted Japanese ROM, then **Azahar** (you get the Italian ROM) or **3DS (Luma3DS)** (you get a zip with the `luma` folder to copy to the SD card). Everything runs on your computer: the ROM is not uploaded anywhere.
 
-**For 3DS (or to get everything at once):** download the latest version from the **[Releases](../../releases)** page and extract the zip.
+**Without a browser (Windows):** download the latest version from the **[Releases](../../releases)** page and extract the zip.
 
 1. Put your **decrypted** Japanese ROM (`.cci` or `.3ds`) in the extracted folder, next to `Applica patch.bat`.
 2. Run `Applica patch.bat`. It creates:

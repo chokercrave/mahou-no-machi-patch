@@ -138,8 +138,8 @@ INSTALLAZIONE
        "Tongari Boushi ITA v{ver}.3ds"  la ROM in italiano, da aprire con Azahar
        "luma"                          la cartella per la 3DS con Luma3DS
   La ROM originale resta intatta.
-  Solo Azahar, senza Windows o senza scaricare niente: puoi applicare la patch anche nel
-  browser, sul sito di Darkened Forest: https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds
+  Senza Windows o senza scaricare niente: puoi applicare la patch anche nel browser (ROM per
+  Azahar o cartella luma per la 3DS), sul sito di Darkened Forest: https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds
 
 EMULATORE (Azahar): apri "Tongari Boushi ITA v{ver}.3ds".
 
@@ -215,7 +215,7 @@ INSTALLATION
   Your original ROM is left untouched.
   Not on Windows? Apply the .xdelta file with any xdelta3 tool (e.g. Delta Patcher):
     xdelta3 -d -s "<original ROM>" "Tongari Boushi ITA v{ver}.xdelta" "Tongari Boushi ITA v{ver}.3ds"
-  Azahar only: you can also patch the ROM in your browser, on Darkened Forest's site:
+  You can also patch in your browser (ROM for Azahar or luma folder for 3DS) on Darkened Forest's site:
     https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds
 
 EMULATOR (Azahar): open "Tongari Boushi ITA v{ver}.3ds".
@@ -384,6 +384,15 @@ def main():
                 zf.write(p, os.path.relpath(p, OUT))
     mb = lambda p: os.path.getsize(p) / (1 << 20)
     print(f'patch {mb(patch):.1f} MB (verificata), pacchetto -> {z} ({mb(z):.1f} MB)')
+    # per il sito di Darkened Forest: la stessa xdelta col nome del bucket (scripts/upload_patches.py del sito) e i dati
+    # del campo "luma" della release in patches_3ds.json (cartella Luma3DS creata nel browser, scripts/luma_web.py)
+    import json, luma_web
+    site = os.path.join(OUT, 'sito')
+    os.makedirs(site, exist_ok=True)
+    shutil.copyfile(patch, os.path.join(site, f'tongari-boushi-ita-v{ver}.xdelta'))
+    with open(os.path.join(site, f'luma_v{ver}.json'), 'w', encoding='utf-8') as f:
+        json.dump(luma_web.info(rom), f, separators=(',', ':'))
+    print(f'sito -> {site}')
     os.remove(rom)
 
 
