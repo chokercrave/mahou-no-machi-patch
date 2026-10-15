@@ -138,6 +138,8 @@ INSTALLAZIONE
        "Tongari Boushi ITA v{ver}.3ds"  la ROM in italiano, da aprire con Azahar
        "luma"                          la cartella per la 3DS con Luma3DS
   La ROM originale resta intatta.
+  Solo Azahar, senza Windows o senza scaricare niente: puoi applicare la patch anche nel
+  browser, sul sito di Darkened Forest: https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds
 
 EMULATORE (Azahar): apri "Tongari Boushi ITA v{ver}.3ds".
 
@@ -213,6 +215,8 @@ INSTALLATION
   Your original ROM is left untouched.
   Not on Windows? Apply the .xdelta file with any xdelta3 tool (e.g. Delta Patcher):
     xdelta3 -d -s "<original ROM>" "Tongari Boushi ITA v{ver}.xdelta" "Tongari Boushi ITA v{ver}.3ds"
+  Azahar only: you can also patch the ROM in your browser, on Darkened Forest's site:
+    https://darkenedforest.github.io/tongari-boushi-to-oshare-na-mahou-tsukai-archive/patches/#3ds
 
 EMULATOR (Azahar): open "Tongari Boushi ITA v{ver}.3ds".
 
@@ -327,7 +331,10 @@ def main():
     patch = os.path.join(pkg, f'Tongari Boushi ITA v{ver}.xdelta')
     # finestra sorgente grande quanto la ROM (256 MB): trova i blocchi uguali anche lontani -> patch piccola
     # -A: niente intestazione con i nomi dei file (conterrebbe i percorsi completi del PC che crea la patch)
-    r = subprocess.run([XDELTA, '-e', '-9', '-f', '-A', '-B', str(1 << 28), '-s', ORIG, rom, patch], capture_output=True, text=True)
+    # -S none: niente compressione secondaria (lzma), che RomPatcher.js (patcher nel browser del sito) non legge;
+    # lo zip del pacchetto comprime comunque
+    r = subprocess.run([XDELTA, '-e', '-9', '-f', '-A', '-S', 'none', '-B', str(1 << 28), '-s', ORIG, rom, patch],
+                       capture_output=True, text=True)
     if r.returncode:
         sys.exit(f'xdelta3 fallito:\n{r.stdout}\n{r.stderr}')
     # prova: la patch ricostruisce esattamente la ROM italiana
